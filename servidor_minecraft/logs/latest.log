@@ -664,3 +664,60 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Jan2025 21:00:41.907] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Teleported D3snitaSech to Titomh1012]
 [03Jan2025 21:00:42.065] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [D3snitaSech: Teleported D3snitaSech to Titomh1012]
 [03Jan2025 21:01:10.753] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RectoDePato: Teleported RectoDePato to D3snitaSech]
+[03Jan2025 21:02:22.899] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [D3snitaSech: Teleported D3snitaSech to Titomh1012]
+[03Jan2025 21:02:29.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Teleported RectoDePato to Titomh1012]
+[03Jan2025 21:06:27.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech was killed by Marine Sniper
+[03Jan2025 21:10:26.310] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bullet'/6870, l='ServerLevel[world]', x=231.60, y=79.00, z=-237.17]
+[03Jan2025 21:10:50.013] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RectoDePato: Teleported RectoDePato to D3snitaSech]
+[03Jan2025 21:10:51.090] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech has made the advancement [Cover Me With Diamonds]
+[03Jan2025 21:11:26.616] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Teleported Titomh1012 to RectoDePato]
+[03Jan2025 21:12:06.529] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: visualworkbench:crafting_table @ BlockPos{x=140, y=63, z=-226}
+[03Jan2025 21:12:06.529] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: lootr:special_loot_chest @ BlockPos{x=141, y=63, z=-227}
+[03Jan2025 21:12:06.530] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:campfire @ BlockPos{x=142, y=63, z=-222}
+[03Jan2025 21:12:06.530] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: lootr:special_loot_chest @ BlockPos{x=146, y=63, z=-227}
+[03Jan2025 21:12:06.530] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: visualworkbench:crafting_table @ BlockPos{x=147, y=63, z=-226}
+[03Jan2025 21:12:06.560] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:campfire @ BlockPos{x=144, y=63, z=-220}
+[03Jan2025 21:12:06.896] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:campfire @ BlockPos{x=146, y=64, z=-213}
+[03Jan2025 21:12:07.048] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: visualworkbench:crafting_table @ BlockPos{x=153, y=70, z=-233}
+[03Jan2025 21:12:07.096] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: lootr:special_loot_chest @ BlockPos{x=154, y=70, z=-232}
+[03Jan2025 21:12:07.696] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: lootr:special_loot_chest @ BlockPos{x=159, y=70, z=-232}
+[03Jan2025 21:12:07.958] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:campfire @ BlockPos{x=156, y=70, z=-239}
+[03Jan2025 21:12:07.959] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: visualworkbench:crafting_table @ BlockPos{x=160, y=70, z=-233}
+[03Jan2025 21:12:08.010] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:campfire @ BlockPos{x=158, y=70, z=-237}
+[03Jan2025 21:13:04.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [D3snitaSech: Teleported D3snitaSech to Titomh1012]
+[03Jan2025 21:14:08.899] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Titomh1012 has made the advancement [Voluntary Exile]
+[03Jan2025 21:18:25.508] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Tallow'/9077, l='ServerLevel[world]', x=59.44, y=67.83, z=-325.32]
+[03Jan2025 21:19:20.865] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RectoDePato: Teleported RectoDePato to Titomh1012]
+[03Jan2025 21:20:30.574] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Titomh1012 moved wrongly!
+[03Jan2025 21:22:37.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [D3snitaSech: Teleported D3snitaSech to RectoDePato]
+[03Jan2025 21:22:56.694] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech was killed by Swordsman Trainer using Shi Shishi Sonson
+[03Jan2025 21:24:31.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RectoDePato: Teleported RectoDePato to D3snitaSech]
+[03Jan2025 21:24:36.616] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Teleported RectoDePato to Titomh1012]
+[03Jan2025 21:24:43.695] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech was killed by Pirate Grunt
+[03Jan2025 21:25:11.296] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [D3snitaSech: Teleported D3snitaSech to Titomh1012]
+[03Jan2025 21:26:33.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RectoDePato: Teleported RectoDePato to Titomh1012]
+[03Jan2025 21:26:59.385] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RectoDePato drowned
+[03Jan2025 21:27:10.048] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Titomh1012 lost connection: Timed out
+[03Jan2025 21:27:10.048] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Titomh1012 left the game
+[03Jan2025 21:27:10.130] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[03Jan2025 21:27:13.795] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: D3snitaSech lost connection: Timed out
+[03Jan2025 21:27:13.795] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech left the game
+[03Jan2025 21:27:23.685] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: RectoDePato lost connection: Timed out
+[03Jan2025 21:27:23.686] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RectoDePato left the game
+[03Jan2025 21:28:16.262] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@550ee953
+[03Jan2025 21:28:16.301] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: D3snitaSech[/0:0:0:0:0:0:0:1%0:58744] logged in with entity id 13383 at (-53.861556632092835, 64.0, -566.3852406557809)
+[03Jan2025 21:28:16.312] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech joined the game
+[03Jan2025 21:28:16.331] [Server thread/INFO] [Waila/]: Syncing config to D3snitaSech (27a0e9ed-675f-3312-9be1-d866e0fa904f)
+[03Jan2025 21:28:18.739] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1173a2aa
+[03Jan2025 21:28:18.789] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Titomh1012[/0:0:0:0:0:0:0:1%0:58756] logged in with entity id 13584 at (-130.25012204682554, 63.08576373713012, -578.2166756470217)
+[03Jan2025 21:28:18.800] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Titomh1012 joined the game
+[03Jan2025 21:28:18.837] [Server thread/INFO] [Waila/]: Syncing config to Titomh1012 (bda2af2f-140c-3c17-9a00-f57b6921e79b)
+[03Jan2025 21:28:34.866] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Set own game mode to Creative Mode]
+[03Jan2025 21:28:39.000] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Titomh1012 has made the advancement [Cover Me With Diamonds]
+[03Jan2025 21:29:28.977] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-123, y=25, z=-778}
+[03Jan2025 21:29:51.206] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Set own game mode to Survival Mode]
+[03Jan2025 21:30:17.862] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Teleported Titomh1012 to D3snitaSech]
+[03Jan2025 21:31:03.384] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@373809c7
+[03Jan2025 21:31:03.433] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: RectoDePato[/0:0:0:0:0:0:0:1%0:40026] logged in with entity id 14422 at (-124.90906044759637, 44.69418870062228, -569.0484915086084)
+[03Jan2025 21:31:03.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RectoDePato joined the game
+[03Jan2025 21:31:03.465] [Server thread/INFO] [Waila/]: Syncing config to RectoDePato (18ca88df-f812-3118-b423-b418e813b1bf)

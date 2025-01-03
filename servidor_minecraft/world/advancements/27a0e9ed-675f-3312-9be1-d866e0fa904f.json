@@ -449,6 +449,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_rich_soil": {
+    "criteria": {
+      "get_rich_soil": "2025-01-03 20:57:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz_slab": {
     "criteria": {
       "has_the_recipe": "2025-01-03 03:46:44 +0000"
@@ -3066,6 +3072,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-01-03 21:10:51 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/decorations/common/glass/vanilla/end_crystal": {
     "criteria": {
       "has_the_recipe": "2025-01-03 03:46:42 +0000"
@@ -5056,6 +5068,12 @@
   "betterendforge:recipes/betterendforge/sandy_jadestone_button_from_sandy_jadestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-01-03 03:46:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-01-03 21:09:54 +0000"
     },
     "done": true
   },
@@ -21607,6 +21625,7 @@
       "minecraft:birch_forest_hills": "2025-01-03 19:13:41 +0000",
       "minecraft:wooded_mountains": "2025-01-03 05:10:15 +0000",
       "minecraft:wooded_hills": "2025-01-03 03:46:45 +0000",
+      "minecraft:stone_shore": "2025-01-03 21:26:27 +0000",
       "minecraft:plains": "2025-01-03 03:48:44 +0000"
     },
     "done": false
@@ -22171,8 +22190,13 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-01-03 21:13:43 +0000",
       "cooked_beef": "2025-01-03 05:40:22 +0000",
+      "beetroot_soup": "2025-01-03 21:09:54 +0000",
       "bread": "2025-01-03 03:51:02 +0000",
+      "cookie": "2025-01-03 21:01:02 +0000",
+      "cooked_rabbit": "2025-01-03 21:20:01 +0000",
+      "cooked_chicken": "2025-01-03 21:14:51 +0000",
       "cod": "2025-01-03 05:51:26 +0000"
     },
     "done": false
