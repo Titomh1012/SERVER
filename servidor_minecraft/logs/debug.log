@@ -9486,3 +9486,56 @@ Missing minecraft:mob_effect:
 [03Jan2025 19:09:36.731] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Rankyaku at tick 1135
 [03Jan2025 19:09:36.800] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech was killed by Marine Captain
 [03Jan2025 19:09:36.841] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Busoshoku Haki: Hardening at tick 1137
+[03Jan2025 19:09:46.392] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 153
+[03Jan2025 19:09:46.949] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 164
+[03Jan2025 19:09:47.501] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 175
+[03Jan2025 19:09:48.045] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 186
+[03Jan2025 19:09:48.602] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 197
+[03Jan2025 19:09:56.340] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped O Tatsumaki at tick 352
+[03Jan2025 19:09:57.588] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech was killed by Marine Captain using Hiryu: Kaen
+[03Jan2025 19:09:57.591] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Hiryu: Kaen at tick 377
+[03Jan2025 19:11:06.705] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03Jan2025 19:11:06.716] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03Jan2025 19:11:37.118] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Titomh1012 has made the advancement [The Parrots and the Bats]
+[03Jan2025 19:11:49.546] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Teleported RectoDePato to Titomh1012]
+[03Jan2025 19:12:37.252] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=210, y=81, z=-232} BlockPos{x=205, y=79, z=-291}
+[03Jan2025 19:13:13.881] [Worker-Main-4/DEBUG] [betterdungeons/]: Zombie Dungeon at 935 49 263
+[03Jan2025 19:13:19.714] [Worker-Main-4/DEBUG] [betterdungeons/]: Small Dungeon at 959 21 167
+[03Jan2025 19:13:22.695] [Worker-Main-5/DEBUG] [betterdungeons/]: Small Dungeon at 975 44 23
+[03Jan2025 19:13:28.420] [Worker-Main-6/DEBUG] [betterdungeons/]: Small Dungeon at 991 21 375
+[03Jan2025 19:13:38.245] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=857, y=48, z=46}
+[03Jan2025 19:15:13.187] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Titomh1012 has made the advancement [Fishy Business]
+[03Jan2025 19:15:53.319] [Worker-Main-5/DEBUG] [betterdungeons/]: Small Dungeon at 1119 28 183
+[03Jan2025 19:15:57.248] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=961, y=22, z=168}
+[03Jan2025 19:16:04.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [D3snitaSech: Teleported D3snitaSech to Titomh1012]
+[03Jan2025 19:16:05.896] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=778, y=24, z=271}
+[03Jan2025 19:16:05.896] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=776, y=24, z=269}
+[03Jan2025 19:16:06.005] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=804, y=24, z=264}
+[03Jan2025 19:16:06.005] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=802, y=24, z=266}
+[03Jan2025 19:16:06.005] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=800, y=29, z=264}
+[03Jan2025 19:16:06.780] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03Jan2025 19:16:06.792] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03Jan2025 19:17:27.349] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=788, y=24, z=277}
+[03Jan2025 19:17:27.349] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=792, y=29, z=286}
+[03Jan2025 19:17:27.350] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=804, y=29, z=286}
+[03Jan2025 19:17:27.350] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=804, y=24, z=286}
+[03Jan2025 19:17:27.455] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=783, y=29, z=277}
+[03Jan2025 19:17:27.456] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=776, y=29, z=287}
+[03Jan2025 19:17:36.594] [Worker-Main-5/DEBUG] [betterdungeons/]: Small Dungeon at 669 17 503
+[03Jan2025 19:17:36.616] [Worker-Main-5/DEBUG] [betterdungeons/]: Small Dungeon at 513 43 503
+[03Jan2025 19:17:54.074] [Worker-Main-6/DEBUG] [betterdungeons/]: Small Dungeon at 335 26 497
+[03Jan2025 19:18:00.952] [Worker-Main-5/DEBUG] [betterdungeons/]: Small Dungeon at 801 19 513
+[03Jan2025 19:18:32.153] [Worker-Main-4/DEBUG] [betterdungeons/]: Small Dungeon at 999 21 495
+[03Jan2025 19:18:36.046] [Worker-Main-6/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[03Jan2025 19:18:36.047] [Worker-Main-6/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[03Jan2025 19:19:28.143] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RectoDePato tried to swim in lava
+[03Jan2025 19:19:30.985] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech has reached the goal [Skyslime Island]
+[03Jan2025 19:20:47.505] [Worker-Main-4/DEBUG] [betterdungeons/]: Small Dungeon at 813 25 647
+[03Jan2025 19:20:47.520] [Worker-Main-5/DEBUG] [betterdungeons/]: Small Dungeon at 503 13 637
+[03Jan2025 19:20:53.354] [Worker-Main-5/DEBUG] [betterdungeons/]: Small Dungeon at 653 34 653
+[03Jan2025 19:20:53.958] [Worker-Main-4/DEBUG] [betterdungeons/]: Small Dungeon at 1015 15 655
+[03Jan2025 19:21:06.692] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03Jan2025 19:21:06.705] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03Jan2025 19:26:06.701] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03Jan2025 19:26:06.711] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03Jan2025 19:26:13.423] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=677, y=18, z=512}

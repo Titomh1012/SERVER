@@ -905,3 +905,27 @@ Missing minecraft:mob_effect:
 [03Jan2025 19:08:30.872] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Obituary'/3484, l='ServerLevel[world]', x=527.13, y=70.56, z=104.46]
 [03Jan2025 19:08:38.644] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech was killed by Marine Captain
 [03Jan2025 19:09:36.800] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech was killed by Marine Captain
+[03Jan2025 19:09:57.588] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech was killed by Marine Captain using Hiryu: Kaen
+[03Jan2025 19:11:37.118] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Titomh1012 has made the advancement [The Parrots and the Bats]
+[03Jan2025 19:11:49.546] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Teleported RectoDePato to Titomh1012]
+[03Jan2025 19:12:37.252] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=210, y=81, z=-232} BlockPos{x=205, y=79, z=-291}
+[03Jan2025 19:13:38.245] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=857, y=48, z=46}
+[03Jan2025 19:15:13.187] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Titomh1012 has made the advancement [Fishy Business]
+[03Jan2025 19:15:57.248] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=961, y=22, z=168}
+[03Jan2025 19:16:04.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [D3snitaSech: Teleported D3snitaSech to Titomh1012]
+[03Jan2025 19:16:05.896] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=778, y=24, z=271}
+[03Jan2025 19:16:05.896] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=776, y=24, z=269}
+[03Jan2025 19:16:06.005] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=804, y=24, z=264}
+[03Jan2025 19:16:06.005] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=802, y=24, z=266}
+[03Jan2025 19:16:06.005] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=800, y=29, z=264}
+[03Jan2025 19:17:27.349] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=788, y=24, z=277}
+[03Jan2025 19:17:27.349] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=792, y=29, z=286}
+[03Jan2025 19:17:27.350] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=804, y=29, z=286}
+[03Jan2025 19:17:27.350] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=804, y=24, z=286}
+[03Jan2025 19:17:27.455] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=783, y=29, z=277}
+[03Jan2025 19:17:27.456] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=776, y=29, z=287}
+[03Jan2025 19:18:36.046] [Worker-Main-6/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[03Jan2025 19:18:36.047] [Worker-Main-6/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[03Jan2025 19:19:28.143] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RectoDePato tried to swim in lava
+[03Jan2025 19:19:30.985] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech has reached the goal [Skyslime Island]
+[03Jan2025 19:26:13.423] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=677, y=18, z=512}
