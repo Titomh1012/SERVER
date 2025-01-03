@@ -9330,3 +9330,119 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Jan2025 21:41:12.902] [Worker-Main-4/DEBUG] [betterdungeons/]: Zombie Dungeon at 151 49 967
 [03Jan2025 21:41:12.903] [Worker-Main-5/DEBUG] [betterdungeons/]: Small Dungeon at 167 37 973
 [03Jan2025 21:41:17.268] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RectoDePato: Teleported RectoDePato to Titomh1012]
+[03Jan2025 21:42:20.907] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03Jan2025 21:42:20.919] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03Jan2025 21:43:44.939] [Worker-Main-5/DEBUG] [betterdungeons/]: Small Dungeon at 199 39 1453
+[03Jan2025 21:43:48.031] [Worker-Main-4/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Land Battle Tower at 64 1344 4 5 true
+[03Jan2025 21:43:55.117] [Worker-Main-4/DEBUG] [betterdungeons/]: Small Dungeon at 55 11 1479
+[03Jan2025 21:45:28.171] [Worker-Main-5/DEBUG] [betterdungeons/]: Small Dungeon at 31 28 1281
+[03Jan2025 21:45:35.826] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=198, y=22, z=1321}
+[03Jan2025 21:45:42.527] [Worker-Main-6/DEBUG] [betterdungeons/]: Small Dungeon at -1 46 1143
+[03Jan2025 21:45:43.217] [Worker-Main-6/DEBUG] [betterdungeons/]: Small Dungeon at 7 30 967
+[03Jan2025 21:45:48.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RectoDePato: Teleported RectoDePato to Titomh1012]
+[03Jan2025 21:46:00.172] [Worker-Main-5/DEBUG] [betterdungeons/]: Small Dungeon at -111 12 1175
+[03Jan2025 21:46:04.034] [Worker-Main-4/DEBUG] [betterdungeons/]: Small Dungeon at -121 24 1287
+[03Jan2025 21:46:04.531] [Worker-Main-5/DEBUG] [betterdungeons/]: Small Dungeon at -129 29 1473
+[03Jan2025 21:46:06.430] [Worker-Main-5/DEBUG] [betterdungeons/]: Small Dungeon at -137 43 983
+[03Jan2025 21:46:10.764] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Kaen Boshi at tick 226
+[03Jan2025 21:46:11.708] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Kemuri Boshi at tick 245
+[03Jan2025 21:46:13.612] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Kaen Boshi at tick 273
+[03Jan2025 21:46:13.768] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Kaen Boshi at tick 266
+[03Jan2025 21:46:14.715] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Sakuretsu Saboten Boshi at tick 285
+[03Jan2025 21:46:23.359] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Busoshoku Haki: Imbuing at tick 463
+[03Jan2025 21:46:44.604] [Worker-Main-6/DEBUG] [betterdungeons/]: Zombie Dungeon at 327 49 1591
+[03Jan2025 21:46:48.442] [Worker-Main-4/DEBUG] [betterdungeons/]: Small Dungeon at 189 16 1607
+[03Jan2025 21:46:48.446] [Worker-Main-5/DEBUG] [betterdungeons/]: Small Dungeon at 359 29 1599
+[03Jan2025 21:47:20.925] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03Jan2025 21:47:20.937] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03Jan2025 21:48:50.684] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Brute stopped Charged Cleave at tick 3459
+[03Jan2025 21:48:52.697] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Yakkodori at tick 3475
+[03Jan2025 21:48:52.697] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 3475
+[03Jan2025 21:48:53.118] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech was killed by Marine Captain
+[03Jan2025 21:48:53.150] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Brute stopped Busoshoku Haki: Imbuing at tick 3494
+[03Jan2025 21:49:03.134] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Genkotsu Meteor at tick 48
+[03Jan2025 21:49:03.134] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 48
+[03Jan2025 21:49:03.669] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 59
+[03Jan2025 21:49:04.210] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 70
+[03Jan2025 21:49:04.770] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech hit the ground too hard whilst trying to escape Marine Captain
+[03Jan2025 21:49:29.709] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Genkotsu Meteor at tick 48
+[03Jan2025 21:49:29.709] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 48
+[03Jan2025 21:49:29.709] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Rankyaku at tick 48
+[03Jan2025 21:49:29.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech was killed by Marine Captain
+[03Jan2025 21:49:39.569] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Teleported RectoDePato to Titomh1012]
+[03Jan2025 21:49:53.656] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 16
+[03Jan2025 21:49:56.113] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Jishin Ho at tick 65
+[03Jan2025 21:49:57.120] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Hakai Ho at tick 85
+[03Jan2025 21:49:57.120] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Charged Punch at tick 85
+[03Jan2025 21:49:57.181] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Shigan at tick 86
+[03Jan2025 21:49:59.707] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Suplex at tick 137
+[03Jan2025 21:49:59.753] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech was killed by Marine Captain using Suplex
+[03Jan2025 21:50:20.864] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 18
+[03Jan2025 21:50:20.864] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Rankyaku at tick 18
+[03Jan2025 21:50:21.086] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech was killed by Marine Captain
+[03Jan2025 21:50:21.125] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Busoshoku Haki: Imbuing at tick 23
+[03Jan2025 21:50:21.135] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Brute stopped Busoshoku Haki: Imbuing at tick 8
+[03Jan2025 21:50:47.661] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Genkotsu Meteor at tick 6
+[03Jan2025 21:50:47.661] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 6
+[03Jan2025 21:50:48.223] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 17
+[03Jan2025 21:50:49.305] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Genkotsu Meteor at tick 45
+[03Jan2025 21:50:50.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech was killed by Marine Captain using Hakai Ho
+[03Jan2025 21:50:50.465] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Busoshoku Haki: Full Body Hardening at tick 68
+[03Jan2025 21:50:50.467] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Hakai Ho at tick 62
+[03Jan2025 21:50:50.468] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Suplex at tick 62
+[03Jan2025 21:50:50.468] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Shigan at tick 62
+[03Jan2025 21:50:50.709] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: D3snitaSech moved too quickly! 10.857314672556939,7.200000047683716,1.155799006808138
+[03Jan2025 21:51:15.807] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Genkotsu Meteor at tick 64
+[03Jan2025 21:51:15.807] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 64
+[03Jan2025 21:51:16.365] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 75
+[03Jan2025 21:51:16.908] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 86
+[03Jan2025 21:51:17.469] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 97
+[03Jan2025 21:51:18.111] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Brute stopped Busoshoku Haki: Imbuing at tick 108
+[03Jan2025 21:51:18.261] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Brute stopped Busoshoku Haki: Hardening at tick 114
+[03Jan2025 21:51:18.872] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech fell from a high place
+[03Jan2025 21:51:18.907] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Suplex at tick 126
+[03Jan2025 21:51:18.907] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Genkotsu Meteor at tick 126
+[03Jan2025 21:51:56.584] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Genkotsu Meteor at tick 39
+[03Jan2025 21:51:57.560] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Charged Punch at tick 59
+[03Jan2025 21:51:59.658] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Genkotsu Meteor at tick 101
+[03Jan2025 21:51:59.723] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech was killed by Marine Captain
+[03Jan2025 21:52:12.456] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech was killed by Marine Captain using Jishin Ho
+[03Jan2025 21:52:12.467] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Brute stopped Busoshoku Haki: Hardening at tick 70
+[03Jan2025 21:52:12.468] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Brute stopped Busoshoku Haki: Imbuing at tick 65
+[03Jan2025 21:52:20.907] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03Jan2025 21:52:20.918] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03Jan2025 21:52:43.614] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech was killed by Marine Captain using Jishin Ho
+[03Jan2025 21:52:43.662] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Jishin Ho at tick 36
+[03Jan2025 21:52:55.475] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Genkotsu Meteor at tick 10
+[03Jan2025 21:52:55.475] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 10
+[03Jan2025 21:52:55.475] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Rankyaku at tick 10
+[03Jan2025 21:52:55.732] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech was killed by Marine Captain
+[03Jan2025 21:52:55.784] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Brute stopped Busoshoku Haki: Imbuing at tick 18
+[03Jan2025 21:52:55.788] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Brute stopped Busoshoku Haki: Imbuing at tick 15
+[03Jan2025 21:53:39.860] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Rankyaku at tick 14
+[03Jan2025 21:53:39.923] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech was killed by Marine Captain
+[03Jan2025 21:53:39.968] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Busoshoku Haki: Hardening at tick 16
+[03Jan2025 21:54:02.916] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [D3snitaSech: Set own game mode to Spectator Mode]
+[03Jan2025 21:54:15.724] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [D3snitaSech: Set own game mode to Survival Mode]
+[03Jan2025 21:54:16.183] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Genkotsu Meteor at tick 4
+[03Jan2025 21:54:19.223] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Charged Punch at tick 65
+[03Jan2025 21:54:21.285] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Genkotsu Meteor at tick 106
+[03Jan2025 21:54:22.362] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Suplex at tick 128
+[03Jan2025 21:54:22.896] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Brute stopped Busoshoku Haki: Hardening at tick 128
+[03Jan2025 21:54:24.057] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Hakai Ho at tick 161
+[03Jan2025 21:54:30.571] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [D3snitaSech: Set own game mode to Spectator Mode]
+[03Jan2025 21:54:38.576] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [D3snitaSech: Set own game mode to Survival Mode]
+[03Jan2025 21:54:39.278] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Sanbyakurokuju Pound Ho at tick 11
+[03Jan2025 21:54:39.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech was killed by Marine Captain
+[03Jan2025 21:54:51.871] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [D3snitaSech: The difficulty has been set to Peaceful]
+[03Jan2025 21:55:25.759] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [D3snitaSech: The difficulty has been set to Easy]
+[03Jan2025 21:55:46.909] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <D3snitaSech> ahbsdhjasbdasd
+[03Jan2025 21:55:47.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <D3snitaSech> a
+[03Jan2025 21:55:49.075] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <D3snitaSech> aadf
+[03Jan2025 21:55:49.955] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <D3snitaSech> ads
+[03Jan2025 21:55:50.622] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <D3snitaSech> adf
+[03Jan2025 21:55:51.402] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <D3snitaSech> adf
+[03Jan2025 21:55:52.030] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <D3snitaSech> adf
+[03Jan2025 21:56:08.205] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [D3snitaSech: Teleported D3snitaSech to Titomh1012]
+[03Jan2025 21:57:20.893] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03Jan2025 21:57:20.903] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
