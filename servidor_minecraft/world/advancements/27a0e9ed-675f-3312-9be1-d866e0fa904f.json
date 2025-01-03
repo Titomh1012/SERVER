@@ -21616,7 +21616,9 @@
       "minecraft:mountains": "2025-01-03 04:00:45 +0000",
       "minecraft:forest": "2025-01-03 04:19:14 +0000",
       "minecraft:taiga": "2025-01-03 03:48:38 +0000",
+      "minecraft:desert_hills": "2025-01-03 22:11:52 +0000",
       "minecraft:taiga_hills": "2025-01-03 04:24:15 +0000",
+      "minecraft:desert": "2025-01-03 22:11:47 +0000",
       "minecraft:birch_forest": "2025-01-03 04:35:33 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-01-03 19:58:33 +0000",
       "minecraft:beach": "2025-01-03 04:46:29 +0000",
@@ -21628,6 +21630,7 @@
       "minecraft:wooded_hills": "2025-01-03 03:46:45 +0000",
       "minecraft:stone_shore": "2025-01-03 21:26:27 +0000",
       "minecraft:swamp": "2025-01-03 21:37:22 +0000",
+      "minecraft:savanna": "2025-01-03 22:04:12 +0000",
       "minecraft:plains": "2025-01-03 03:48:44 +0000"
     },
     "done": false

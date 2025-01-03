@@ -3060,6 +3060,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-01-03 22:10:08 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/jellyshroom_chest": {
     "criteria": {
       "has_the_recipe": "2025-01-03 04:19:27 +0000"
