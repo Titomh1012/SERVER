@@ -9255,3 +9255,78 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Jan2025 21:31:03.433] [Server thread/DEBUG] [net.minecraftforge.network.NetworkFilters/]: Injected net.minecraftforge.network.ForgeConnectionNetworkFilter@38061b96 into net.minecraft.network.NetworkManager@10e7cc74
 [03Jan2025 21:31:03.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RectoDePato joined the game
 [03Jan2025 21:31:03.465] [Server thread/INFO] [Waila/]: Syncing config to RectoDePato (18ca88df-f812-3118-b423-b418e813b1bf)
+[03Jan2025 21:31:59.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Teleported RectoDePato to Titomh1012]
+[03Jan2025 21:32:20.900] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03Jan2025 21:32:20.911] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03Jan2025 21:32:45.193] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech was killed by Marine Captain using Shi Shishi Sonson
+[03Jan2025 21:32:45.204] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Busoshoku Haki: Imbuing at tick 3960
+[03Jan2025 21:32:45.843] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Hiryu: Kaen at tick 3973
+[03Jan2025 21:32:47.190] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Shi Shishi Sonson at tick 4000
+[03Jan2025 21:33:05.641] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Tekkai at tick 4369
+[03Jan2025 21:33:05.692] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 4370
+[03Jan2025 21:33:06.285] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 4381
+[03Jan2025 21:33:08.589] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Hiryu: Kaen at tick 4428
+[03Jan2025 21:33:09.690] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Shi Shishi Sonson at tick 4450
+[03Jan2025 21:33:09.962] [Server thread/ERROR] [noobanidus.mods.lootr.Lootr/]: Unable to fill loot chest in ResourceKey[minecraft:dimension / minecraft:overworld] at BlockPos{x=-9, y=71, z=-729} as the loot table 'mineminenomi:chests/marine_small_base/food' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[03Jan2025 21:33:12.139] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 4499
+[03Jan2025 21:33:13.589] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Busoshoku Haki: Imbuing at tick 4528
+[03Jan2025 21:33:19.197] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Brute stopped Genkotsu Meteor at tick 4115
+[03Jan2025 21:33:22.292] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Brute stopped Genkotsu Meteor at tick 4177
+[03Jan2025 21:33:24.241] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Brute stopped Charged Cleave at tick 4211
+[03Jan2025 21:33:24.840] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Rankyaku at tick 4753
+[03Jan2025 21:33:24.840] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 4753
+[03Jan2025 21:33:25.249] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech was killed by magic whilst trying to escape Marine Brute
+[03Jan2025 21:33:25.295] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Busoshoku Haki: Imbuing at tick 4762
+[03Jan2025 21:33:30.335] [Worker-Main-4/DEBUG] [betterdungeons/]: Small Dungeon at 343 47 -931
+[03Jan2025 21:33:32.443] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 4905
+[03Jan2025 21:33:32.503] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Shi Shishi Sonson at tick 4906
+[03Jan2025 21:33:32.844] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech was killed by Marine Captain using Shi Shishi Sonson
+[03Jan2025 21:33:32.849] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Busoshoku Haki: Imbuing at tick 4912
+[03Jan2025 21:33:33.231] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Hiryu: Kaen at tick 4920
+[03Jan2025 21:33:37.022] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=173, y=28, z=-756}
+[03Jan2025 21:33:38.097] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Rankyaku at tick 5018
+[03Jan2025 21:33:41.090] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Busoshoku Haki: Imbuing at tick 5078
+[03Jan2025 21:33:46.494] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 5186
+[03Jan2025 21:33:47.044] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 5197
+[03Jan2025 21:33:47.592] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 5208
+[03Jan2025 21:33:48.143] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 5219
+[03Jan2025 21:33:48.699] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 5230
+[03Jan2025 21:33:50.142] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Rankyaku at tick 5259
+[03Jan2025 21:33:58.740] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 5431
+[03Jan2025 21:33:59.290] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 5442
+[03Jan2025 21:33:59.442] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Shi Shishi Sonson at tick 5445
+[03Jan2025 21:34:00.641] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Busoshoku Haki: Imbuing at tick 5469
+[03Jan2025 21:34:00.840] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Hiryu: Kaen at tick 5473
+[03Jan2025 21:34:01.092] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 5478
+[03Jan2025 21:34:01.490] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Shi Shishi Sonson at tick 5486
+[03Jan2025 21:34:07.391] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Busoshoku Haki: Imbuing at tick 5604
+[03Jan2025 21:34:18.346] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Brute stopped Charged Cleave at tick 5293
+[03Jan2025 21:34:19.141] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Brute stopped Genkotsu Meteor at tick 5314
+[03Jan2025 21:34:43.715] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/17100, l='ServerLevel[world]', x=682.60, y=64.00, z=1153.96] died, message: 'Villager was slain by Pirate Grunt'
+[03Jan2025 21:35:13.350] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3476eeac
+[03Jan2025 21:35:21.860] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Teleported RectoDePato to Titomh1012]
+[03Jan2025 21:35:58.479] [Worker-Main-5/DEBUG] [betterdungeons/]: Small Dungeon at 529 23 -943
+[03Jan2025 21:36:15.427] [Worker-Main-4/DEBUG] [mixin/]: Mixing JigsawManagerAssemblerMixin from mixins.waystones.json into net.minecraft.world.gen.feature.jigsaw.JigsawManager$Assembler
+[03Jan2025 21:36:15.427] [Worker-Main-4/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$2(Lnet/minecraft/world/gen/feature/jigsaw/JigsawPiece;)Z to mdaf9794$lambda$getShuffledPieces$2$0 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[03Jan2025 21:36:15.427] [Worker-Main-4/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$1(Ljava/lang/String;)Z to mdaf9794$lambda$getShuffledPieces$1$1 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[03Jan2025 21:36:15.427] [Worker-Main-4/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$0(Ljava/lang/Object;)Ljava/lang/String; to mdaf9794$lambda$getShuffledPieces$0$2 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[03Jan2025 21:36:23.365] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Teleported Titomh1012 to RectoDePato]
+[03Jan2025 21:37:06.733] [Worker-Main-5/DEBUG] [betterdungeons/]: Small Dungeon at 365 22 1453
+[03Jan2025 21:37:20.902] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03Jan2025 21:37:20.913] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03Jan2025 21:37:26.880] [Worker-Main-6/DEBUG] [betterdungeons/]: Small Dungeon at 353 45 967
+[03Jan2025 21:37:26.881] [Worker-Main-4/DEBUG] [betterdungeons/]: Small Dungeon at 353 42 1127
+[03Jan2025 21:38:28.447] [Worker-Main-6/DEBUG] [betterdungeons/]: Small Dungeon at 527 28 823
+[03Jan2025 21:39:05.915] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Teleported RectoDePato to Titomh1012]
+[03Jan2025 21:39:34.321] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=533, y=45, z=1318}
+[03Jan2025 21:39:34.480] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=514, y=13, z=1013}
+[03Jan2025 21:39:39.730] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Teleported Titomh1012 to RectoDePato]
+[03Jan2025 21:40:30.765] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Teleported RectoDePato to Titomh1012]
+[03Jan2025 21:40:39.168] [Worker-Main-5/DEBUG] [betterdungeons/]: Small Dungeon at 327 12 807
+[03Jan2025 21:40:39.539] [Worker-Main-6/DEBUG] [betterdungeons/]: Small Dungeon at 319 44 1329
+[03Jan2025 21:41:04.319] [Worker-Main-5/DEBUG] [betterdungeons/]: Small Dungeon at 215 41 813
+[03Jan2025 21:41:04.336] [Worker-Main-5/DEBUG] [betterdungeons/]: Small Dungeon at 209 20 1127
+[03Jan2025 21:41:06.990] [Worker-Main-6/DEBUG] [betterdungeons/]: Small Dungeon at 193 21 1319
+[03Jan2025 21:41:12.902] [Worker-Main-4/DEBUG] [betterdungeons/]: Zombie Dungeon at 151 49 967
+[03Jan2025 21:41:12.903] [Worker-Main-5/DEBUG] [betterdungeons/]: Small Dungeon at 167 37 973
+[03Jan2025 21:41:17.268] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RectoDePato: Teleported RectoDePato to Titomh1012]

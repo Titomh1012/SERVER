@@ -721,3 +721,19 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Jan2025 21:31:03.433] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: RectoDePato[/0:0:0:0:0:0:0:1%0:40026] logged in with entity id 14422 at (-124.90906044759637, 44.69418870062228, -569.0484915086084)
 [03Jan2025 21:31:03.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RectoDePato joined the game
 [03Jan2025 21:31:03.465] [Server thread/INFO] [Waila/]: Syncing config to RectoDePato (18ca88df-f812-3118-b423-b418e813b1bf)
+[03Jan2025 21:31:59.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Teleported RectoDePato to Titomh1012]
+[03Jan2025 21:32:45.193] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech was killed by Marine Captain using Shi Shishi Sonson
+[03Jan2025 21:33:09.962] [Server thread/ERROR] [noobanidus.mods.lootr.Lootr/]: Unable to fill loot chest in ResourceKey[minecraft:dimension / minecraft:overworld] at BlockPos{x=-9, y=71, z=-729} as the loot table 'mineminenomi:chests/marine_small_base/food' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[03Jan2025 21:33:25.249] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech was killed by magic whilst trying to escape Marine Brute
+[03Jan2025 21:33:32.844] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech was killed by Marine Captain using Shi Shishi Sonson
+[03Jan2025 21:33:37.022] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=173, y=28, z=-756}
+[03Jan2025 21:34:43.715] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/17100, l='ServerLevel[world]', x=682.60, y=64.00, z=1153.96] died, message: 'Villager was slain by Pirate Grunt'
+[03Jan2025 21:35:13.350] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3476eeac
+[03Jan2025 21:35:21.860] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Teleported RectoDePato to Titomh1012]
+[03Jan2025 21:36:23.365] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Teleported Titomh1012 to RectoDePato]
+[03Jan2025 21:39:05.915] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Teleported RectoDePato to Titomh1012]
+[03Jan2025 21:39:34.321] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=533, y=45, z=1318}
+[03Jan2025 21:39:34.480] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=514, y=13, z=1013}
+[03Jan2025 21:39:39.730] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Teleported Titomh1012 to RectoDePato]
+[03Jan2025 21:40:30.765] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Teleported RectoDePato to Titomh1012]
+[03Jan2025 21:41:17.268] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RectoDePato: Teleported RectoDePato to Titomh1012]

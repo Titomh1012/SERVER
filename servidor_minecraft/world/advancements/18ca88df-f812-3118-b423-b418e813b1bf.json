@@ -21552,6 +21552,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:mountains": "2025-01-03 05:04:18 +0000",
+      "minecraft:forest": "2025-01-03 21:31:55 +0000",
       "minecraft:taiga": "2025-01-03 04:53:26 +0000",
       "minecraft:taiga_hills": "2025-01-03 19:58:02 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-01-03 20:00:22 +0000",

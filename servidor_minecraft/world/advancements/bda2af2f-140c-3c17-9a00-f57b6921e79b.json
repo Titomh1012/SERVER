@@ -3066,6 +3066,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-01-03 21:28:39 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/decorations/common/glass/vanilla/end_crystal": {
     "criteria": {
       "has_the_recipe": "2025-01-03 03:46:59 +0000"
