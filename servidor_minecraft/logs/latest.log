@@ -929,3 +929,6 @@ Missing minecraft:mob_effect:
 [03Jan2025 19:19:28.143] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RectoDePato tried to swim in lava
 [03Jan2025 19:19:30.985] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech has reached the goal [Skyslime Island]
 [03Jan2025 19:26:13.423] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=677, y=18, z=512}
+[03Jan2025 19:38:26.939] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RectoDePato tried to swim in lava
+[03Jan2025 19:38:58.639] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech fell from a high place
+[03Jan2025 19:39:15.944] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Teleported Titomh1012 to RectoDePato]
