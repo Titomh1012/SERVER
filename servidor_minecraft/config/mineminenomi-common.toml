@@ -78,25 +78,25 @@
 		#Percentage of bounty to keep after death
 		#Default: 33
 		#Range: 0 ~ 100
-		"Percentage of Bounty kept after death" = 33
+		"Percentage of Bounty kept after death" = 60
 		#Percentage of faction loyalty to keep after death
 		#Default: 50
 		#Range: 0 ~ 100
-		"Percentage of Loyalty kept after death" = 50
+		"Percentage of Loyalty kept after death" = 80
 		"Keep Faction" = true
 		#Percentage of belly to keep after death
 		#Default: 33
 		#Range: 0 ~ 100
-		"Percentage of Belly kept after death" = 33
+		"Percentage of Belly kept after death" = 100
 		#Percentage of haki exp to keep after death
 		#Default: 33
 		#Range: 0 ~ 100
-		"Percentage of Haki Exp kept after death" = 33
+		"Percentage of Haki Exp kept after death" = 80
 		"Keep Race" = true
 		#Percentage of doriki to keep after death
 		#Default: 33
 		#Range: 0 ~ 100
-		"Percentage of Doriki kept after death" = 33
+		"Percentage of Doriki kept after death" = 70
 
 	[General."Quests & Trials"]
 		#Allows quests to reward players with abilities, otherwise all abilities will be unlocked from the beginning
@@ -147,7 +147,7 @@
 	#Allows Devil Fruits to drop from leaves if higher than 0
 	#Default: 0
 	#Range: 0.0 ~ 100.0
-	"Chance for Devil Fruits to drop from leaves" = 0.0
+	"Chance for Devil Fruits to drop from leaves" = 1
 	#Enables logia's invulnerability
 	"Logia Invulnerability" = true
 	#Makes the fire and lava damage source to reduce fire resistance; only applies to move attacks from fruits 
@@ -177,7 +177,7 @@
 		# EXTENDED - Extra rules are applied on top of the SIMPLE set that blocks any means (or as many as possible) of storing/hoarding fruits 
 		#Default: NONE
 		#Allowed Values: NONE, SIMPLE, EXTENDED
-		"One Fruit per World" = "NONE"
+		"One Fruit per World" = "SIMPLE"
 		#Sets the limit for how many fruits a player can hold in their inventory;
 		#Default: 3
 		#Range: 1 ~ 10
@@ -189,7 +189,7 @@
 		#A value of 0 means the setting is disabled and fruits will not be removed for inactivity!;
 		#Default: 6
 		#Range: 0 ~ 30
-		"Days for Inactivity" = 6
+		"Days for Inactivity" = 30
 
 	["Devil Fruits / Abilities"."Ability Protection"]
 		#List with ability names that can be used inside ability protection zones
