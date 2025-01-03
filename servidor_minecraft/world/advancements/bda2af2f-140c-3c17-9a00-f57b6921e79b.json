@@ -864,6 +864,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-01-03 01:22:08 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/amber_gem_from_amber_block": {
     "criteria": {
       "has_the_recipe": "2025-01-02 17:04:08 +0000"
@@ -3492,6 +3498,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-01-03 01:22:14 +0000",
       "minecraft:witch": "2025-01-03 00:54:39 +0000",
       "minecraft:zombie": "2025-01-03 01:03:58 +0000"
     },

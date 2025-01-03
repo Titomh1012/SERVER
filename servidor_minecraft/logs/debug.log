@@ -9304,3 +9304,40 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Jan2025 01:14:08.078] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech has made the advancement [Acquire Hardware]
 [03Jan2025 01:15:08.628] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech has made the advancement [Suit Up]
 [03Jan2025 01:16:07.677] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Grunt stopped Hiryu: Kaen at tick 23448
+[03Jan2025 01:18:01.926] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Grunt stopped Genkotsu Meteor at tick 35733
+[03Jan2025 01:18:05.024] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Grunt stopped Genkotsu Meteor at tick 35795
+[03Jan2025 01:18:07.574] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Grunt stopped Tokuyo Abura Boshi at tick 47304
+[03Jan2025 01:18:08.393] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03Jan2025 01:18:08.406] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03Jan2025 01:18:08.522] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Grunt stopped Kaen Boshi at tick 33456
+[03Jan2025 01:18:08.541] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Grunt stopped Genkotsu Meteor at tick 35857
+[03Jan2025 01:18:10.673] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Grunt stopped Tokuyo Abura Boshi at tick 47366
+[03Jan2025 01:18:10.926] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Grunt stopped Shi Shishi Sonson at tick 26313
+[03Jan2025 01:18:18.373] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Bandit Grunt stopped Kaen Boshi at tick 47520
+[03Jan2025 01:18:45.028] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech has made the advancement [Isn't It Iron Pick]
+[03Jan2025 01:18:58.375] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Grunt stopped Shi Shishi Sonson at tick 27262
+[03Jan2025 01:21:10.474] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Grunt stopped Kaen Boshi at tick 29504
+[03Jan2025 01:21:11.473] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Grunt stopped Yakkodori at tick 35524
+[03Jan2025 01:21:16.724] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Grunt stopped Kaen Boshi at tick 29629
+[03Jan2025 01:21:18.274] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Grunt stopped Hiryu: Kaen at tick 29660
+[03Jan2025 01:21:42.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [D3snitaSech: Gave 1    [Character Creator] to D3snitaSech]
+[03Jan2025 01:22:08.783] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Titomh1012 has made the advancement [Not Today, Thank You]
+[03Jan2025 01:23:08.368] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03Jan2025 01:23:08.381] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03Jan2025 01:23:20.074] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Grunt stopped Kaen Boshi at tick 32496
+[03Jan2025 01:24:26.127] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Bandit Sniper stopped Tokuyo Abura Boshi at tick 8217
+[03Jan2025 01:24:28.078] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Bandit Sniper stopped Sakuretsu Saboten Boshi at tick 8256
+[03Jan2025 01:24:28.333] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech was killed by Bandit Sniper
+[03Jan2025 01:24:34.078] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Deividson954 was slain by Bandit Grunt
+[03Jan2025 01:24:36.179] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Bandit Sniper stopped Tokuyo Abura Boshi at tick 8418
+[03Jan2025 01:24:44.927] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Bandit Sniper stopped Tokuyo Abura Boshi at tick 8593
+[03Jan2025 01:24:44.927] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Bandit Sniper stopped Sakuretsu Saboten Boshi at tick 8593
+[03Jan2025 01:24:48.986] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech walked into a cactus whilst trying to escape Bandit Sniper
+[03Jan2025 01:24:55.377] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Bandit Sniper stopped Tokuyo Abura Boshi at tick 8802
+[03Jan2025 01:24:55.377] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Bandit Sniper stopped Sakuretsu Saboten Boshi at tick 8802
+[03Jan2025 01:24:57.437] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech walked into a cactus whilst trying to escape Bandit Sniper
+[03Jan2025 01:25:06.329] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Bandit Sniper stopped Tokuyo Abura Boshi at tick 9021
+[03Jan2025 01:25:06.329] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Bandit Sniper stopped Sakuretsu Saboten Boshi at tick 9021
+[03Jan2025 01:25:06.335] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Deividson954 was killed by Bandit Sniper
+[03Jan2025 01:26:33.884] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech has made the advancement [Sky of Beginning]
+[03Jan2025 01:26:38.739] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Deividson954 has made the advancement [Best Friends Forever]
