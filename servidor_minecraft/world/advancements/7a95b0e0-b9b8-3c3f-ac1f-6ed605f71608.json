@@ -2922,6 +2922,12 @@
     },
     "done": true
   },
+  "majruszs_difficulty:recipes/misc/bandage": {
+    "criteria": {
+      "has_string": "2025-01-03 01:01:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/limestone_bricks_slab": {
     "criteria": {
       "has_the_recipe": "2025-01-03 00:40:54 +0000"
@@ -3473,6 +3479,13 @@
       "has_the_recipe": "2025-01-03 00:40:55 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2025-01-03 01:00:45 +0000",
+      "minecraft:zombie": "2025-01-03 01:00:20 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/brown_glazed_terracotta": {
     "criteria": {
@@ -10133,6 +10146,12 @@
     },
     "done": true
   },
+  "mcwlights:recipes/tiki_torches": {
+    "criteria": {
+      "torch": "2025-01-03 00:56:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/weathered_limestone_cobblestone_wall": {
     "criteria": {
       "has_the_recipe": "2025-01-03 00:40:54 +0000"
@@ -12426,6 +12445,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-01-03 00:57:36 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/glass/purple_clear_stained_glass_pane_from_panes": {
     "criteria": {
       "has_the_recipe": "2025-01-03 00:40:54 +0000"
@@ -14254,6 +14279,12 @@
   "mcwtrpdoors:recipes/oak/oak_tropical_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-03 00:40:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-01-03 00:57:20 +0000"
     },
     "done": true
   },
@@ -18536,6 +18567,12 @@
     },
     "done": true
   },
+  "mcwlights:recipes/paper_lamp": {
+    "criteria": {
+      "paper": "2025-01-03 00:56:09 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/world/world/wood/skyroot/door": {
     "criteria": {
       "has_the_recipe": "2025-01-03 00:40:53 +0000"
@@ -21321,6 +21358,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-01-03 01:00:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/limestone_cobblestone_slab_from_limestone_cobblestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-01-03 00:40:54 +0000"
@@ -22807,6 +22850,12 @@
   "create:recipes/create.palettes/limestone_bricks_from_limestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-01-03 00:40:53 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/lantern": {
+    "criteria": {
+      "lantern": "2025-01-03 00:56:09 +0000"
     },
     "done": true
   },

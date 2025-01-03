@@ -617,6 +617,12 @@
     },
     "done": true
   },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2025-01-03 00:59:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_the_recipe": "2025-01-03 00:39:37 +0000"
@@ -1707,6 +1713,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_the_recipe": "2025-01-03 00:39:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-01-03 00:53:13 +0000"
     },
     "done": true
   },
@@ -6818,6 +6830,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-01-03 00:53:13 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_cobble_wall": {
     "criteria": {
       "has_the_recipe": "2025-01-03 00:39:38 +0000"
@@ -10620,6 +10638,12 @@
     },
     "done": true
   },
+  "majruszs_difficulty:progressive_difficulty/bleeding_cactus": {
+    "criteria": {
+      "bleeding_applied": "2025-01-03 00:55:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tconstruct/general/tools/modifiers/slime_crystal/ichor": {
     "criteria": {
       "has_the_recipe": "2025-01-03 00:39:39 +0000"
@@ -10833,6 +10857,12 @@
   "create:recipes/create.base/crafting/kinetics/super_glue": {
     "criteria": {
       "has_the_recipe": "2025-01-03 00:39:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-01-03 00:53:13 +0000"
     },
     "done": true
   },
@@ -12612,6 +12642,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-01-03 00:53:13 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/speed_up_belt": {
     "criteria": {
       "has_the_recipe": "2025-01-03 00:39:37 +0000"
@@ -12802,6 +12838,12 @@
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_the_recipe": "2025-01-03 00:39:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-01-03 00:53:13 +0000"
     },
     "done": true
   },
@@ -14464,6 +14506,12 @@
   "minecraft:recipes/travelersbackpack/redstone_smithing_iron": {
     "criteria": {
       "has_the_recipe": "2025-01-03 00:39:38 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/oak": {
+    "criteria": {
+      "has_oak": "2025-01-03 00:57:52 +0000"
     },
     "done": true
   },
@@ -19274,6 +19322,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-01-03 01:02:16 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/orange_canvas_sign": {
     "criteria": {
       "has_the_recipe": "2025-01-03 00:39:37 +0000"
@@ -21317,7 +21371,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2025-01-03 00:39:39 +0000"
+      "minecraft:forest": "2025-01-03 00:39:39 +0000",
+      "minecraft:swamp": "2025-01-03 01:02:26 +0000"
     },
     "done": false
   },
@@ -22179,6 +22234,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-01-03 00:53:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp": {
     "criteria": {
       "has_the_recipe": "2025-01-03 00:39:39 +0000"
@@ -22668,6 +22729,12 @@
   "create:recipes/create.palettes/fancy_granite_bricks_slab": {
     "criteria": {
       "has_the_recipe": "2025-01-03 00:39:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-01-03 00:59:45 +0000"
     },
     "done": true
   },

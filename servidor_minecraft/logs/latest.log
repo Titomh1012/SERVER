@@ -739,3 +739,50 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Jan2025 00:56:27.734] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=166, y=65, z=-242}
 [03Jan2025 00:56:27.884] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=166, y=64, z=-241}
 [03Jan2025 00:56:30.596] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=166, y=65, z=-242}
+[03Jan2025 00:56:51.232] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=176, y=69, z=-240}
+[03Jan2025 00:57:06.186] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech was killed by Marine Grunt using Suplex
+[03Jan2025 00:57:20.727] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Deividson954 has made the advancement [Acquire Hardware]
+[03Jan2025 00:57:21.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech was killed by Swordsman Trainer using O Tatsumaki
+[03Jan2025 00:57:36.227] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Deividson954 has made the advancement [Isn't It Iron Pick]
+[03Jan2025 00:59:01.634] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Deividson954 suffocated in a wall
+[03Jan2025 00:59:15.968] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Teleported Deividson954 to Titomh1012]
+[03Jan2025 00:59:19.081] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Titomh1012 has made the advancement [Acquire Hardware]
+[03Jan2025 00:59:39.276] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Titomh1012 has made the advancement [Isn't It Iron Pick]
+[03Jan2025 00:59:39.276] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Titomh1012 has made the advancement [Suit Up]
+[03Jan2025 01:00:14.217] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=183, y=52, z=-223} BlockPos{x=182, y=40, z=-226}
+[03Jan2025 01:00:14.568] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=183, y=52, z=-223} BlockPos{x=182, y=41, z=-225}
+[03Jan2025 01:00:15.117] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=183, y=52, z=-223} BlockPos{x=181, y=40, z=-226}
+[03Jan2025 01:00:20.449] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Deividson954 has made the advancement [Monster Hunter]
+[03Jan2025 01:00:26.031] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=187, y=43, z=-223} BlockPos{x=182, y=40, z=-227}
+[03Jan2025 01:00:26.086] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=187, y=43, z=-223} BlockPos{x=183, y=40, z=-226}
+[03Jan2025 01:00:27.583] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=187, y=43, z=-223} BlockPos{x=182, y=40, z=-226}
+[03Jan2025 01:00:32.781] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=187, y=43, z=-223} BlockPos{x=183, y=40, z=-225}
+[03Jan2025 01:01:32.666] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=184, y=41, z=-222} BlockPos{x=184, y=42, z=-234}
+[03Jan2025 01:01:32.868] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=184, y=41, z=-222} BlockPos{x=183, y=42, z=-234}
+[03Jan2025 01:01:38.167] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=184, y=41, z=-222} BlockPos{x=184, y=42, z=-234}
+[03Jan2025 01:01:43.286] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=184, y=41, z=-222} BlockPos{x=180, y=42, z=-224}
+[03Jan2025 01:01:43.419] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=184, y=41, z=-222} BlockPos{x=179, y=41, z=-225}
+[03Jan2025 01:01:43.535] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=184, y=41, z=-222} BlockPos{x=179, y=42, z=-224}
+[03Jan2025 01:01:44.307] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made D3snitaSech a server operator
+[03Jan2025 01:01:59.143] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made Deividson954 a server operator
+[03Jan2025 01:02:16.332] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech has made the advancement [Getting an Upgrade]
+[03Jan2025 01:02:50.986] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech was slain by Cave Spider
+[03Jan2025 01:03:12.898] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: The difficulty has been set to Normal]
+[03Jan2025 01:03:50.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech was killed by Witch using magic
+[03Jan2025 01:04:02.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Titomh1012 has made the advancement [Quite the Renovation]
+[03Jan2025 01:04:08.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Titomh1012 has made the advancement ['X' Marks the Spot]
+[03Jan2025 01:04:19.584] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Titomh1012 has made the advancement [Barrel Booty]
+[03Jan2025 01:04:54.032] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Deividson954 bled to death from injuries caused by Zombie
+[03Jan2025 01:05:02.191] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Teleported Deividson954 to Titomh1012]
+[03Jan2025 01:05:03.182] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Deividson954 has made the advancement [Quite the Renovation]
+[03Jan2025 01:05:16.581] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Deividson954 has made the advancement ['X' Marks the Spot]
+[03Jan2025 01:05:26.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Teleported D3snitaSech to Titomh1012]
+[03Jan2025 01:05:26.785] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech has made the advancement [Quite the Renovation]
+[03Jan2025 01:05:27.435] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech bled to death from injuries caused by Zombie
+[03Jan2025 01:05:29.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Deividson954 has made the advancement [Crops of the Wild]
+[03Jan2025 01:05:33.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Teleported D3snitaSech to Titomh1012]
+[03Jan2025 01:05:42.949] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Deividson954 has made the advancement [Barrel Booty]
+[03Jan2025 01:05:47.486] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Teleported D3snitaSech to Titomh1012]
+[03Jan2025 01:05:49.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech has made the advancement ['X' Marks the Spot]
+[03Jan2025 01:05:57.084] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech has made the advancement [Barrel Booty]
+[03Jan2025 01:06:26.045] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Titomh1012 has made the advancement [A Realistical Logical Ideologist]

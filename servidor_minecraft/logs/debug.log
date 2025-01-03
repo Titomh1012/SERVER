@@ -9147,3 +9147,114 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Jan2025 00:56:27.884] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=166, y=64, z=-241}
 [03Jan2025 00:56:28.675] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Swordsman Trainer stopped O Tatsumaki at tick 17213
 [03Jan2025 00:56:30.596] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=166, y=65, z=-242}
+[03Jan2025 00:56:51.232] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=176, y=69, z=-240}
+[03Jan2025 00:57:00.426] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Grunt stopped Genkotsu Meteor at tick 8903
+[03Jan2025 00:57:03.032] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Grunt stopped Suplex at tick 955
+[03Jan2025 00:57:03.530] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Grunt stopped Genkotsu Meteor at tick 8965
+[03Jan2025 00:57:03.635] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Bandit Grunt stopped Kaen Boshi at tick 167
+[03Jan2025 00:57:06.186] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech was killed by Marine Grunt using Suplex
+[03Jan2025 00:57:06.628] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Grunt stopped Genkotsu Meteor at tick 9027
+[03Jan2025 00:57:20.727] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Deividson954 has made the advancement [Acquire Hardware]
+[03Jan2025 00:57:21.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech was killed by Swordsman Trainer using O Tatsumaki
+[03Jan2025 00:57:21.877] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Swordsman Trainer stopped Busoshoku Haki: Imbuing at tick 18277
+[03Jan2025 00:57:22.873] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Swordsman Trainer stopped Shi Shishi Sonson at tick 18297
+[03Jan2025 00:57:24.141] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Swordsman Trainer stopped O Tatsumaki at tick 18322
+[03Jan2025 00:57:36.227] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Deividson954 has made the advancement [Isn't It Iron Pick]
+[03Jan2025 00:57:56.132] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Bandit Grunt stopped Genkotsu Meteor at tick 4417
+[03Jan2025 00:57:59.228] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Bandit Grunt stopped Genkotsu Meteor at tick 4479
+[03Jan2025 00:57:59.278] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Grunt stopped Suplex at tick 2080
+[03Jan2025 00:58:08.462] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03Jan2025 00:58:08.478] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03Jan2025 00:58:46.575] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Bandit Grunt stopped Kaen Boshi at tick 6226
+[03Jan2025 00:58:46.774] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Swordsman Trainer stopped Sanbyakurokuju Pound Ho at tick 19975
+[03Jan2025 00:58:48.974] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Swordsman Trainer stopped Shi Shishi Sonson at tick 20019
+[03Jan2025 00:58:48.974] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Swordsman Trainer stopped Busoshoku Haki: Imbuing at tick 20019
+[03Jan2025 00:58:49.324] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Swordsman Trainer stopped Hiryu: Kaen at tick 20026
+[03Jan2025 00:58:51.973] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Swordsman Trainer stopped O Tatsumaki at tick 20079
+[03Jan2025 00:59:01.634] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Deividson954 suffocated in a wall
+[03Jan2025 00:59:15.968] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Teleported Deividson954 to Titomh1012]
+[03Jan2025 00:59:19.081] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Titomh1012 has made the advancement [Acquire Hardware]
+[03Jan2025 00:59:39.276] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Titomh1012 has made the advancement [Isn't It Iron Pick]
+[03Jan2025 00:59:39.276] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Titomh1012 has made the advancement [Suit Up]
+[03Jan2025 01:00:14.217] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=183, y=52, z=-223} BlockPos{x=182, y=40, z=-226}
+[03Jan2025 01:00:14.568] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=183, y=52, z=-223} BlockPos{x=182, y=41, z=-225}
+[03Jan2025 01:00:15.117] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=183, y=52, z=-223} BlockPos{x=181, y=40, z=-226}
+[03Jan2025 01:00:20.449] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Deividson954 has made the advancement [Monster Hunter]
+[03Jan2025 01:00:26.031] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=187, y=43, z=-223} BlockPos{x=182, y=40, z=-227}
+[03Jan2025 01:00:26.086] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=187, y=43, z=-223} BlockPos{x=183, y=40, z=-226}
+[03Jan2025 01:00:27.583] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=187, y=43, z=-223} BlockPos{x=182, y=40, z=-226}
+[03Jan2025 01:00:32.781] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=187, y=43, z=-223} BlockPos{x=183, y=40, z=-225}
+[03Jan2025 01:01:32.666] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=184, y=41, z=-222} BlockPos{x=184, y=42, z=-234}
+[03Jan2025 01:01:32.868] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=184, y=41, z=-222} BlockPos{x=183, y=42, z=-234}
+[03Jan2025 01:01:38.167] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=184, y=41, z=-222} BlockPos{x=184, y=42, z=-234}
+[03Jan2025 01:01:41.880] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Grunt stopped Kaen Boshi at tick 12132
+[03Jan2025 01:01:41.924] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Grunt stopped Kaen Boshi at tick 16533
+[03Jan2025 01:01:41.926] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Grunt stopped Yakkodori at tick 12133
+[03Jan2025 01:01:42.125] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Grunt stopped Genkotsu Meteor at tick 16537
+[03Jan2025 01:01:42.126] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Grunt stopped Tetsu Boshi at tick 16137
+[03Jan2025 01:01:42.176] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Grunt stopped Genkotsu Meteor at tick 16138
+[03Jan2025 01:01:43.286] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=184, y=41, z=-222} BlockPos{x=180, y=42, z=-224}
+[03Jan2025 01:01:43.419] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=184, y=41, z=-222} BlockPos{x=179, y=41, z=-225}
+[03Jan2025 01:01:43.535] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=184, y=41, z=-222} BlockPos{x=179, y=42, z=-224}
+[03Jan2025 01:01:44.307] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made D3snitaSech a server operator
+[03Jan2025 01:01:44.627] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Grunt stopped Kaen Boshi at tick 6187
+[03Jan2025 01:01:59.143] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made Deividson954 a server operator
+[03Jan2025 01:02:16.332] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech has made the advancement [Getting an Upgrade]
+[03Jan2025 01:02:50.986] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech was slain by Cave Spider
+[03Jan2025 01:03:08.482] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03Jan2025 01:03:08.496] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03Jan2025 01:03:12.898] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: The difficulty has been set to Normal]
+[03Jan2025 01:03:19.774] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Grunt stopped Tetsu Boshi at tick 18090
+[03Jan2025 01:03:19.876] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Grunt stopped Yakkodori at tick 14092
+[03Jan2025 01:03:22.325] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Bandit Grunt stopped Genkotsu Meteor at tick 17341
+[03Jan2025 01:03:25.776] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Bandit Grunt stopped Genkotsu Meteor at tick 16210
+[03Jan2025 01:03:26.826] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Grunt stopped Tetsu Boshi at tick 18231
+[03Jan2025 01:03:28.175] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Bandit Grunt stopped Genkotsu Meteor at tick 17458
+[03Jan2025 01:03:29.926] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Grunt stopped Yakkodori at tick 14293
+[03Jan2025 01:03:31.276] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Bandit Grunt stopped Genkotsu Meteor at tick 17520
+[03Jan2025 01:03:33.876] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Grunt stopped Tetsu Boshi at tick 18372
+[03Jan2025 01:03:47.228] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Grunt stopped Kaen Boshi at tick 9039
+[03Jan2025 01:03:47.625] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Grunt stopped Kaen Boshi at tick 13047
+[03Jan2025 01:03:48.376] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Grunt stopped Kaen Boshi at tick 10662
+[03Jan2025 01:03:48.378] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Grunt stopped Hiryu: Kaen at tick 10662
+[03Jan2025 01:03:50.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech was killed by Witch using magic
+[03Jan2025 01:04:02.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Titomh1012 has made the advancement [Quite the Renovation]
+[03Jan2025 01:04:03.874] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Grunt stopped Tetsu Boshi at tick 18972
+[03Jan2025 01:04:04.725] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Bandit Grunt stopped Genkotsu Meteor at tick 16989
+[03Jan2025 01:04:04.975] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Grunt stopped Yakkodori at tick 14994
+[03Jan2025 01:04:08.725] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Grunt stopped Kaen Boshi at tick 14269
+[03Jan2025 01:04:08.825] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Grunt stopped Genkotsu Meteor at tick 17471
+[03Jan2025 01:04:08.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Titomh1012 has made the advancement ['X' Marks the Spot]
+[03Jan2025 01:04:19.584] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Titomh1012 has made the advancement [Barrel Booty]
+[03Jan2025 01:04:41.876] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Grunt stopped Hakai Ho at tick 17332
+[03Jan2025 01:04:54.032] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Deividson954 bled to death from injuries caused by Zombie
+[03Jan2025 01:05:02.191] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Teleported Deividson954 to Titomh1012]
+[03Jan2025 01:05:03.182] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Deividson954 has made the advancement [Quite the Renovation]
+[03Jan2025 01:05:06.674] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Grunt stopped Genkotsu Meteor at tick 20228
+[03Jan2025 01:05:06.826] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Grunt stopped Kaen Boshi at tick 10231
+[03Jan2025 01:05:07.075] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Grunt stopped Yakkodori at tick 16236
+[03Jan2025 01:05:16.581] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Deividson954 has made the advancement ['X' Marks the Spot]
+[03Jan2025 01:05:26.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Teleported D3snitaSech to Titomh1012]
+[03Jan2025 01:05:26.785] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech has made the advancement [Quite the Renovation]
+[03Jan2025 01:05:27.435] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech bled to death from injuries caused by Zombie
+[03Jan2025 01:05:29.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Deividson954 has made the advancement [Crops of the Wild]
+[03Jan2025 01:05:33.229] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Grunt stopped Genkotsu Meteor at tick 13559
+[03Jan2025 01:05:33.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Teleported D3snitaSech to Titomh1012]
+[03Jan2025 01:05:36.325] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Grunt stopped Genkotsu Meteor at tick 13621
+[03Jan2025 01:05:38.979] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Bandit Grunt stopped Kaen Boshi at tick 12074
+[03Jan2025 01:05:39.125] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Grunt stopped Genkotsu Meteor at tick 18877
+[03Jan2025 01:05:39.625] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Grunt stopped Genkotsu Meteor at tick 13687
+[03Jan2025 01:05:42.725] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Grunt stopped Genkotsu Meteor at tick 13749
+[03Jan2025 01:05:42.949] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Deividson954 has made the advancement [Barrel Booty]
+[03Jan2025 01:05:45.525] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Bandit Grunt stopped Genkotsu Meteor at tick 12205
+[03Jan2025 01:05:47.486] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Teleported D3snitaSech to Titomh1012]
+[03Jan2025 01:05:47.878] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Grunt stopped Suplex at tick 11452
+[03Jan2025 01:05:49.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech has made the advancement ['X' Marks the Spot]
+[03Jan2025 01:05:55.025] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Bandit Grunt stopped Kaen Boshi at tick 13995
+[03Jan2025 01:05:56.032] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Grunt stopped Suplex at tick 11615
+[03Jan2025 01:05:56.075] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Grunt stopped Hakai Ho at tick 14016
+[03Jan2025 01:05:57.084] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech has made the advancement [Barrel Booty]
+[03Jan2025 01:05:57.375] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Grunt stopped Genkotsu Meteor at tick 19242
+[03Jan2025 01:06:00.176] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Bandit Grunt stopped Kaen Boshi at tick 14098
+[03Jan2025 01:06:00.474] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Grunt stopped Genkotsu Meteor at tick 19304
+[03Jan2025 01:06:26.045] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Titomh1012 has made the advancement [A Realistical Logical Ideologist]

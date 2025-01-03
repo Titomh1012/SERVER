@@ -3484,6 +3484,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:witch": "2025-01-03 00:54:39 +0000"
+    },
+    "done": false
+  },
   "tconstruct:recipes/tconstruct/world/common/slime/ender/slimeblock": {
     "criteria": {
       "has_the_recipe": "2025-01-02 17:04:09 +0000"
@@ -8228,6 +8234,12 @@
     },
     "done": true
   },
+  "majruszs_difficulty:progressive_difficulty/bleeding": {
+    "criteria": {
+      "bleeding_applied": "2025-01-03 00:54:06 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/slime/blood/slimeball_from_block": {
     "criteria": {
       "has_the_recipe": "2025-01-02 17:04:09 +0000"
@@ -11902,6 +11914,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-01-03 00:59:39 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/terminite_door": {
     "criteria": {
       "has_the_recipe": "2025-01-02 17:04:07 +0000"
@@ -12439,6 +12457,12 @@
   "betterendforge:recipes/betterendforge/thallasium_bulb_lantern_green": {
     "criteria": {
       "has_the_recipe": "2025-01-02 17:04:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-01-03 00:59:39 +0000"
     },
     "done": true
   },
@@ -14265,6 +14289,12 @@
   "mcwtrpdoors:recipes/oak/oak_tropical_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-02 17:04:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-01-03 00:59:19 +0000"
     },
     "done": true
   },
@@ -21338,6 +21368,12 @@
   "create:recipes/create.palettes/smelting/limestone": {
     "criteria": {
       "has_the_recipe": "2025-01-02 17:04:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:witch": "2025-01-03 00:54:39 +0000"
     },
     "done": true
   },
