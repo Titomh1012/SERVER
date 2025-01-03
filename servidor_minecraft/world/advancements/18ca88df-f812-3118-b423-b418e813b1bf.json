@@ -7086,6 +7086,12 @@
     },
     "done": true
   },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-01-03 20:16:15 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_brick": {
     "criteria": {
       "has_the_recipe": "2025-01-03 04:19:27 +0000"
@@ -22100,8 +22106,10 @@
     "criteria": {
       "cooked_porkchop": "2025-01-03 05:10:38 +0000",
       "cooked_beef": "2025-01-03 05:44:56 +0000",
+      "beetroot_soup": "2025-01-03 20:43:30 +0000",
       "rotten_flesh": "2025-01-03 04:34:10 +0000",
       "dried_kelp": "2025-01-03 20:12:55 +0000",
+      "melon_slice": "2025-01-03 20:25:35 +0000",
       "mushroom_stew": "2025-01-03 20:12:20 +0000"
     },
     "done": false

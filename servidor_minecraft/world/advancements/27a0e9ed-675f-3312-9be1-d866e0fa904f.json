@@ -21827,6 +21827,12 @@
     },
     "done": true
   },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-01-03 20:18:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/redstone_smithing_diamond": {
     "criteria": {
       "has_the_recipe": "2025-01-03 03:46:42 +0000"

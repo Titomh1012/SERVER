@@ -11505,6 +11505,12 @@
     },
     "done": true
   },
+  "mineminenomi:challenges/root": {
+    "criteria": {
+      "unlock_challenge": "2025-01-03 20:16:45 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/super_cloud_pendant": {
     "criteria": {
       "has_the_recipe": "2025-01-03 03:47:00 +0000"
@@ -21543,6 +21549,7 @@
       "minecraft:lukewarm_ocean": "2025-01-03 19:59:49 +0000",
       "minecraft:wooded_mountains": "2025-01-03 05:12:24 +0000",
       "minecraft:wooded_hills": "2025-01-03 03:47:01 +0000",
+      "minecraft:swamp": "2025-01-03 20:34:17 +0000",
       "minecraft:plains": "2025-01-03 03:48:33 +0000"
     },
     "done": false

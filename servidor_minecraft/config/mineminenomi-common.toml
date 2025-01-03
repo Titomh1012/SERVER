@@ -78,7 +78,7 @@
 		#Percentage of bounty to keep after death
 		#Default: 33
 		#Range: 0 ~ 100
-		"Percentage of Bounty kept after death" = 60
+		"Percentage of Bounty kept after death" = 70
 		#Percentage of faction loyalty to keep after death
 		#Default: 50
 		#Range: 0 ~ 100
@@ -91,12 +91,12 @@
 		#Percentage of haki exp to keep after death
 		#Default: 33
 		#Range: 0 ~ 100
-		"Percentage of Haki Exp kept after death" = 80
+		"Percentage of Haki Exp kept after death" = 95
 		"Keep Race" = true
 		#Percentage of doriki to keep after death
 		#Default: 33
 		#Range: 0 ~ 100
-		"Percentage of Doriki kept after death" = 70
+		"Percentage of Doriki kept after death" = 95
 
 	[General."Quests & Trials"]
 		#Allows quests to reward players with abilities, otherwise all abilities will be unlocked from the beginning
@@ -143,7 +143,7 @@
 	"Logia Return Effect" = false
 	#Allows Yami Yami no Mi users to eat an additional fruit
 	#Default: false
-	"Yami Power" = false
+	"Yami Power" = true
 	#Allows Devil Fruits to drop from leaves if higher than 0
 	#Default: 0
 	#Range: 0.0 ~ 100.0
