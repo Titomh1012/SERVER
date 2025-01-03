@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-01-03 00:48:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_nether_brick_wall": {
     "criteria": {
       "has_the_recipe": "2025-01-02 17:04:08 +0000"
@@ -1712,6 +1718,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-01-03 00:49:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/gabbro_cobblestone_slab": {
     "criteria": {
       "has_the_recipe": "2025-01-02 17:04:09 +0000"
@@ -3000,6 +3012,12 @@
   "minecraft:recipes/misc/map": {
     "criteria": {
       "has_the_recipe": "2025-01-02 17:04:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-01-03 00:50:12 +0000"
     },
     "done": true
   },
@@ -6823,6 +6841,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-01-03 00:49:02 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_cobble_wall": {
     "criteria": {
       "has_the_recipe": "2025-01-02 17:04:07 +0000"
@@ -10112,6 +10136,12 @@
     },
     "done": true
   },
+  "mcwlights:recipes/tiki_torches": {
+    "criteria": {
+      "torch": "2025-01-03 00:52:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/weathered_limestone_cobblestone_wall": {
     "criteria": {
       "has_the_recipe": "2025-01-02 17:04:08 +0000"
@@ -10839,6 +10869,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-01-03 00:49:02 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/asian_red_bridge_stair": {
     "criteria": {
       "has_planks": "2025-01-02 17:04:06 +0000"
@@ -11365,6 +11401,12 @@
   "create:recipes/create.base/crafting/kinetics/fluid_pipe": {
     "criteria": {
       "has_the_recipe": "2025-01-02 17:04:09 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:challenges/root": {
+    "criteria": {
+      "unlock_challenge": "2025-01-03 00:48:05 +0000"
     },
     "done": true
   },
@@ -12616,6 +12658,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-01-03 00:49:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/fancy_dolomite_bricks_wall_from_fancy_dolomite_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-01-02 17:04:08 +0000"
@@ -12806,6 +12854,12 @@
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_the_recipe": "2025-01-02 17:04:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-01-03 00:49:02 +0000"
     },
     "done": true
   },
@@ -18494,6 +18548,12 @@
     },
     "done": true
   },
+  "mcwlights:recipes/paper_lamp": {
+    "criteria": {
+      "paper": "2025-01-03 00:52:42 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/world/world/wood/skyroot/door": {
     "criteria": {
       "has_the_recipe": "2025-01-02 17:04:09 +0000"
@@ -19278,6 +19338,12 @@
   "mineminenomi:recipes/misc/kairoseki": {
     "criteria": {
       "has_the_recipe": "2025-01-02 17:04:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-01-03 00:49:19 +0000"
     },
     "done": true
   },
@@ -21882,6 +21948,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2025-01-03 00:44:24 +0000"
+    },
+    "done": false
+  },
   "xercamusic:recipes/bass_guitar": {
     "criteria": {
       "has_item": "2025-01-02 17:04:06 +0000"
@@ -22186,6 +22258,12 @@
   "majruszs_difficulty:recipes/building_blocks/end_block": {
     "criteria": {
       "has_the_recipe": "2025-01-02 17:04:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-01-03 00:49:02 +0000"
     },
     "done": true
   },
@@ -22757,6 +22835,12 @@
   "create:recipes/create.palettes/limestone_bricks_from_limestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-01-02 17:04:09 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/lantern": {
+    "criteria": {
+      "lantern": "2025-01-03 00:52:42 +0000"
     },
     "done": true
   },

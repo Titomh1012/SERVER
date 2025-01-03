@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-01-03 00:46:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_nether_brick_wall": {
     "criteria": {
       "has_the_recipe": "2025-01-03 00:40:54 +0000"
@@ -608,6 +614,12 @@
   "betterendforge:recipes/betterendforge/umbralith_slab_from_umbralith_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-01-03 00:40:54 +0000"
+    },
+    "done": true
+  },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2025-01-03 00:49:36 +0000"
     },
     "done": true
   },
@@ -1701,6 +1713,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_the_recipe": "2025-01-03 00:40:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-01-03 00:51:27 +0000"
     },
     "done": true
   },
@@ -2991,6 +3009,12 @@
   "minecraft:recipes/misc/map": {
     "criteria": {
       "has_the_recipe": "2025-01-03 00:40:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-01-03 00:51:27 +0000"
     },
     "done": true
   },
@@ -6812,6 +6836,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-01-03 00:51:27 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_cobble_wall": {
     "criteria": {
       "has_the_recipe": "2025-01-03 00:40:54 +0000"
@@ -8176,6 +8206,12 @@
     },
     "done": true
   },
+  "majruszs_difficulty:progressive_difficulty/bleeding": {
+    "criteria": {
+      "bleeding_applied": "2025-01-03 00:45:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/weathered_limestone_cobblestone_from_weathered_limestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-01-03 00:40:55 +0000"
@@ -8852,6 +8888,12 @@
   "betterendforge:recipes/betterendforge/helix_tree_planks": {
     "criteria": {
       "has_the_recipe": "2025-01-03 00:40:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-01-03 00:45:57 +0000"
     },
     "done": true
   },
@@ -10818,6 +10860,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-01-03 00:51:27 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/asian_red_bridge_stair": {
     "criteria": {
       "has_planks": "2025-01-03 00:40:52 +0000"
@@ -12594,6 +12642,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-01-03 00:51:27 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/speed_up_belt": {
     "criteria": {
       "has_the_recipe": "2025-01-03 00:40:53 +0000"
@@ -12784,6 +12838,12 @@
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_the_recipe": "2025-01-03 00:40:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-01-03 00:51:27 +0000"
     },
     "done": true
   },
@@ -13456,6 +13516,12 @@
   "betterendforge:recipes/misc/pink_dye_from_twisted_moss": {
     "criteria": {
       "has_the_recipe": "2025-01-03 00:40:53 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-01-03 00:44:32 +0000"
     },
     "done": true
   },
@@ -14440,6 +14506,12 @@
   "minecraft:recipes/travelersbackpack/redstone_smithing_iron": {
     "criteria": {
       "has_the_recipe": "2025-01-03 00:40:54 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/oak": {
+    "criteria": {
+      "has_oak": "2025-01-03 00:49:09 +0000"
     },
     "done": true
   },
@@ -16097,6 +16169,12 @@
   "create:recipes/create.base/crafting/kinetics/light_blue_seat_from_other_seat": {
     "criteria": {
       "has_the_recipe": "2025-01-03 00:40:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-01-03 00:44:32 +0000"
     },
     "done": true
   },
@@ -19244,6 +19322,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-01-03 00:51:58 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/orange_canvas_sign": {
     "criteria": {
       "has_the_recipe": "2025-01-03 00:40:53 +0000"
@@ -19283,6 +19367,12 @@
   "betterendforge:recipes/betterendforge/gold_chandelier": {
     "criteria": {
       "has_the_recipe": "2025-01-03 00:40:54 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-01-03 00:45:57 +0000"
     },
     "done": true
   },
@@ -21275,7 +21365,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2025-01-03 00:40:55 +0000"
+      "minecraft:forest": "2025-01-03 00:40:55 +0000",
+      "minecraft:swamp": "2025-01-03 00:47:16 +0000"
     },
     "done": false
   },
@@ -22143,6 +22234,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-01-03 00:51:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp": {
     "criteria": {
       "has_the_recipe": "2025-01-03 00:40:55 +0000"
@@ -22626,6 +22723,12 @@
   "create:recipes/create.palettes/acacia_window": {
     "criteria": {
       "has_the_recipe": "2025-01-03 00:40:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-01-03 00:49:35 +0000"
     },
     "done": true
   },

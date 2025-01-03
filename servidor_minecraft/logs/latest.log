@@ -628,3 +628,114 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Jan2025 00:46:18.514] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=172, y=69, z=-246}
 [03Jan2025 00:46:18.569] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=172, y=69, z=-245}
 [03Jan2025 00:46:18.640] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=172, y=69, z=-243}
+[03Jan2025 00:46:50.028] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Deividson954 was killed by Swordsman Trainer using O Tatsumaki
+[03Jan2025 00:46:57.666] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=175, y=65, z=-229}
+[03Jan2025 00:46:57.769] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=175, y=65, z=-230}
+[03Jan2025 00:46:58.816] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=176, y=65, z=-231}
+[03Jan2025 00:47:05.457] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=175, y=65, z=-230}
+[03Jan2025 00:47:05.476] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Deividson954 was slain by Marine Brute
+[03Jan2025 00:47:32.331] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=177, y=70, z=-226}
+[03Jan2025 00:47:33.486] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=178, y=70, z=-226}
+[03Jan2025 00:47:33.586] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=177, y=70, z=-226}
+[03Jan2025 00:47:34.887] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=178, y=69, z=-227}
+[03Jan2025 00:47:35.086] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=177, y=70, z=-227}
+[03Jan2025 00:47:35.286] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=178, y=70, z=-226}
+[03Jan2025 00:47:35.420] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=177, y=70, z=-226}
+[03Jan2025 00:47:35.486] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=177, y=70, z=-227}
+[03Jan2025 00:47:35.630] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=176, y=70, z=-226}
+[03Jan2025 00:47:44.581] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=173, y=65, z=-212} BlockPos{x=191, y=72, z=-246}
+[03Jan2025 00:47:44.731] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=173, y=65, z=-212} BlockPos{x=190, y=71, z=-246}
+[03Jan2025 00:47:44.782] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=173, y=65, z=-212} BlockPos{x=190, y=72, z=-247}
+[03Jan2025 00:47:44.933] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=173, y=65, z=-212} BlockPos{x=190, y=72, z=-247}
+[03Jan2025 00:47:54.982] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=175, y=67, z=-216} BlockPos{x=186, y=65, z=-227}
+[03Jan2025 00:47:55.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Deividson954 was slain by Marine Brute
+[03Jan2025 00:48:17.018] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=173, y=65, z=-212} BlockPos{x=180, y=67, z=-238}
+[03Jan2025 00:48:18.282] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=173, y=65, z=-212} BlockPos{x=183, y=68, z=-234}
+[03Jan2025 00:48:18.315] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=173, y=65, z=-212} BlockPos{x=184, y=68, z=-234}
+[03Jan2025 00:48:18.434] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=173, y=65, z=-212} BlockPos{x=184, y=68, z=-234}
+[03Jan2025 00:48:18.636] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=173, y=65, z=-212} BlockPos{x=188, y=65, z=-235}
+[03Jan2025 00:48:18.815] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=173, y=65, z=-212} BlockPos{x=189, y=65, z=-235}
+[03Jan2025 00:48:46.080] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=173, y=73, z=-223} BlockPos{x=173, y=73, z=-224}
+[03Jan2025 00:49:02.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Titomh1012 has made the advancement [Stone Age]
+[03Jan2025 00:49:13.039] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=173, y=65, z=-212} BlockPos{x=178, y=68, z=-224}
+[03Jan2025 00:49:13.582] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=173, y=65, z=-212} BlockPos{x=179, y=67, z=-224}
+[03Jan2025 00:49:19.476] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Titomh1012 has made the advancement [Getting an Upgrade]
+[03Jan2025 00:50:14.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Deividson954 was blown up by Pirate Grunt
+[03Jan2025 00:50:14.814] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Deividson954 moved wrongly!
+[03Jan2025 00:50:32.012] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=187, y=64, z=-229}
+[03Jan2025 00:50:33.028] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech has made the advancement [Am I Bleeding?]
+[03Jan2025 00:50:33.030] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech was slain by Marine Brute
+[03Jan2025 00:50:33.388] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=187, y=63, z=-229}
+[03Jan2025 00:50:44.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech was slain by Marine Brute
+[03Jan2025 00:50:48.068] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=183, y=65, z=-245}
+[03Jan2025 00:50:50.980] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=165, y=66, z=-244}
+[03Jan2025 00:50:51.182] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=165, y=67, z=-244}
+[03Jan2025 00:50:51.386] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=166, y=67, z=-244}
+[03Jan2025 00:50:51.486] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=166, y=67, z=-244}
+[03Jan2025 00:50:57.982] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=171, y=68, z=-249}
+[03Jan2025 00:51:27.284] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Deividson954 has made the advancement [Stone Age]
+[03Jan2025 00:51:34.983] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: D3snitaSech lost connection: You logged in from another location
+[03Jan2025 00:51:34.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech left the game
+[03Jan2025 00:51:35.079] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4bf5eed5
+[03Jan2025 00:51:35.100] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[03Jan2025 00:51:35.141] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: D3snitaSech[/0:0:0:0:0:0:0:1%0:58440] logged in with entity id 2293 at (180.53074801413845, 52.0, -222.5480391132217)
+[03Jan2025 00:51:35.147] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech joined the game
+[03Jan2025 00:51:35.193] [Server thread/INFO] [Waila/]: Syncing config to D3snitaSech (27a0e9ed-675f-3312-9be1-d866e0fa904f)
+[03Jan2025 00:51:58.026] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Deividson954 has made the advancement [Getting an Upgrade]
+[03Jan2025 00:53:13.582] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech has made the advancement [Stone Age]
+[03Jan2025 00:53:14.253] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Teleported Deividson954 to Titomh1012]
+[03Jan2025 00:53:16.917] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=189, y=44, z=-223} BlockPos{x=185, y=40, z=-224}
+[03Jan2025 00:53:17.062] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=189, y=44, z=-223} BlockPos{x=185, y=40, z=-225}
+[03Jan2025 00:53:18.905] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=184, y=41, z=-222} BlockPos{x=189, y=40, z=-230}
+[03Jan2025 00:53:18.980] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=184, y=41, z=-222} BlockPos{x=189, y=40, z=-231}
+[03Jan2025 00:53:20.504] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=184, y=41, z=-222} BlockPos{x=189, y=40, z=-231}
+[03Jan2025 00:53:20.584] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=184, y=41, z=-222} BlockPos{x=189, y=40, z=-230}
+[03Jan2025 00:53:22.105] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=184, y=41, z=-222} BlockPos{x=188, y=40, z=-231}
+[03Jan2025 00:53:22.304] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=184, y=41, z=-222} BlockPos{x=188, y=40, z=-230}
+[03Jan2025 00:53:24.987] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=184, y=41, z=-222} BlockPos{x=189, y=40, z=-231}
+[03Jan2025 00:53:25.083] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=184, y=41, z=-222} BlockPos{x=188, y=40, z=-230}
+[03Jan2025 00:53:25.369] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=184, y=41, z=-222} BlockPos{x=188, y=40, z=-229}
+[03Jan2025 00:53:26.302] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=184, y=41, z=-222} BlockPos{x=187, y=40, z=-228}
+[03Jan2025 00:53:26.668] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=184, y=41, z=-222} BlockPos{x=187, y=40, z=-229}
+[03Jan2025 00:53:27.669] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=184, y=41, z=-222} BlockPos{x=186, y=40, z=-228}
+[03Jan2025 00:53:28.603] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=184, y=41, z=-222} BlockPos{x=186, y=40, z=-231}
+[03Jan2025 00:53:28.669] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=184, y=41, z=-222} BlockPos{x=187, y=40, z=-231}
+[03Jan2025 00:53:28.869] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=184, y=41, z=-222} BlockPos{x=187, y=40, z=-232}
+[03Jan2025 00:53:29.190] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=184, y=41, z=-222} BlockPos{x=188, y=41, z=-232}
+[03Jan2025 00:53:32.752] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=184, y=41, z=-222} BlockPos{x=191, y=41, z=-232}
+[03Jan2025 00:53:37.903] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=184, y=41, z=-222} BlockPos{x=191, y=40, z=-231}
+[03Jan2025 00:53:39.433] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=184, y=41, z=-222} BlockPos{x=191, y=40, z=-232}
+[03Jan2025 00:53:40.568] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=184, y=41, z=-222} BlockPos{x=191, y=41, z=-232}
+[03Jan2025 00:53:41.367] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=184, y=41, z=-222} BlockPos{x=190, y=41, z=-232}
+[03Jan2025 00:53:42.152] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=184, y=41, z=-222} BlockPos{x=189, y=41, z=-232}
+[03Jan2025 00:53:50.001] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=184, y=41, z=-222} BlockPos{x=190, y=40, z=-232}
+[03Jan2025 00:53:51.501] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=184, y=41, z=-222} BlockPos{x=190, y=41, z=-233}
+[03Jan2025 00:53:52.050] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=184, y=41, z=-222} BlockPos{x=190, y=41, z=-232}
+[03Jan2025 00:53:52.500] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=184, y=41, z=-222} BlockPos{x=189, y=41, z=-232}
+[03Jan2025 00:53:58.913] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=189, y=44, z=-223} BlockPos{x=186, y=40, z=-228}
+[03Jan2025 00:54:01.962] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=189, y=44, z=-223} BlockPos{x=189, y=40, z=-229}
+[03Jan2025 00:54:02.013] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=189, y=44, z=-223} BlockPos{x=189, y=40, z=-230}
+[03Jan2025 00:54:02.823] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech was slain by Spider
+[03Jan2025 00:54:06.824] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Titomh1012 has made the advancement [Am I Bleeding?]
+[03Jan2025 00:54:10.824] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Titomh1012 was slain by Spider
+[03Jan2025 00:54:20.285] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Deividson954 bled to death from injuries caused by Spider
+[03Jan2025 00:54:32.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Deividson954 was killed by Bandit Grunt
+[03Jan2025 00:54:39.453] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Titomh1012 has made the advancement [Monster Hunter]
+[03Jan2025 00:54:52.583] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech was killed by Bandit Grunt
+[03Jan2025 00:54:55.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Deividson954 was killed by Bandit Grunt
+[03Jan2025 00:55:12.801] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Teleported Deividson954 to Titomh1012]
+[03Jan2025 00:55:18.181] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=186, y=41, z=-228}
+[03Jan2025 00:55:29.861] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=174, y=66, z=-232}
+[03Jan2025 00:55:42.481] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech has reached the goal [Ouch!]
+[03Jan2025 00:55:42.482] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech walked into a cactus whilst trying to escape Bandit Grunt
+[03Jan2025 00:55:49.147] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=170, y=68, z=-249}
+[03Jan2025 00:55:49.219] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=169, y=68, z=-249}
+[03Jan2025 00:55:49.484] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=168, y=68, z=-249}
+[03Jan2025 00:55:50.009] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=167, y=68, z=-251}
+[03Jan2025 00:55:50.040] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=168, y=68, z=-250}
+[03Jan2025 00:56:03.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech was killed by Bandit Grunt
+[03Jan2025 00:56:11.525] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech was killed by Swordsman Trainer using O Tatsumaki
+[03Jan2025 00:56:27.675] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech was killed by Swordsman Trainer using O Tatsumaki
+[03Jan2025 00:56:27.734] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=166, y=65, z=-242}
+[03Jan2025 00:56:27.884] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=166, y=64, z=-241}
+[03Jan2025 00:56:30.596] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=166, y=65, z=-242}
