@@ -8553,3 +8553,31 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Jan2025 20:50:49.405] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: RectoDePato moved wrongly!
 [03Jan2025 20:50:52.653] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: RectoDePato moved wrongly!
 [03Jan2025 20:51:10.817] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RectoDePato: Teleported RectoDePato to Titomh1012]
+[03Jan2025 20:51:20.244] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: lootr:special_loot_chest @ BlockPos{x=184, y=79, z=-289}
+[03Jan2025 20:51:20.286] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: visualworkbench:crafting_table @ BlockPos{x=184, y=79, z=-291}
+[03Jan2025 20:51:20.386] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=186, y=79, z=-292}
+[03Jan2025 20:51:20.386] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: quark:variant_chest @ BlockPos{x=184, y=79, z=-293}
+[03Jan2025 20:51:20.456] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: lootr:special_loot_chest @ BlockPos{x=170, y=66, z=-288}
+[03Jan2025 20:51:20.457] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=190, y=79, z=-290}
+[03Jan2025 20:51:20.530] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=190, y=79, z=-291}
+[03Jan2025 20:51:20.574] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: mineminenomi:wanted_poster @ BlockPos{x=187, y=82, z=-293}
+[03Jan2025 20:51:20.574] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: mineminenomi:wanted_poster @ BlockPos{x=188, y=81, z=-293}
+[03Jan2025 20:51:20.605] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: mineminenomi:wanted_poster @ BlockPos{x=189, y=80, z=-293}
+[03Jan2025 20:51:20.828] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: visualworkbench:crafting_table @ BlockPos{x=167, y=66, z=-292}
+[03Jan2025 20:51:20.905] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: lootr:special_loot_chest @ BlockPos{x=166, y=66, z=-292}
+[03Jan2025 20:51:21.549] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=167, y=77, z=-257}
+[03Jan2025 20:52:20.929] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03Jan2025 20:52:20.948] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03Jan2025 20:53:54.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Teleported D3snitaSech to Titomh1012]
+[03Jan2025 20:56:30.552] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RectoDePato: Teleported RectoDePato to Titomh1012]
+[03Jan2025 20:57:07.873] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Set own game mode to Creative Mode]
+[03Jan2025 20:57:20.912] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03Jan2025 20:57:20.925] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03Jan2025 20:57:25.116] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Set own game mode to Survival Mode]
+[03Jan2025 20:57:58.150] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech has reached the goal [Plant Food]
+[03Jan2025 20:58:51.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Teleported Titomh1012 to RectoDePato]
+[03Jan2025 20:59:07.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Teleported RectoDePato to Titomh1012]
+[03Jan2025 20:59:16.400] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/54, l='ServerLevel[world]', x=155.30, y=68.82, z=-270.32] died, message: 'Villager was slain by Zombie'
+[03Jan2025 21:00:41.907] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Teleported D3snitaSech to Titomh1012]
+[03Jan2025 21:00:42.065] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [D3snitaSech: Teleported D3snitaSech to Titomh1012]
+[03Jan2025 21:01:10.753] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RectoDePato: Teleported RectoDePato to D3snitaSech]

@@ -8284,6 +8284,12 @@
     },
     "done": true
   },
+  "mineminenomi:devil_fruits/root": {
+    "criteria": {
+      "eat_fruit": "2025-01-03 20:50:18 +0000"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/warped": {
     "criteria": {
       "has_wood": "2025-01-03 03:46:41 +0000"
