@@ -988,3 +988,38 @@ Missing minecraft:mob_effect:
 [03Jan2025 19:59:43.554] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Titomh1012 has made the advancement [Penteconter]
 [03Jan2025 20:00:00.198] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1465, y=16, z=1312}
 [03Jan2025 20:00:17.888] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RectoDePato: Teleported RectoDePato to D3snitaSech]
+[03Jan2025 20:00:35.556] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RectoDePato was doomed to fall by Pirate Captain
+[03Jan2025 20:00:49.225] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Titomh1012 was killed by Pirate Captain using Hiryu: Kaen
+[03Jan2025 20:00:49.233] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech was killed by Pirate Captain using Hiryu: Kaen
+[03Jan2025 20:00:54.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech was killed by Marine Brute using O Tatsumaki
+[03Jan2025 20:01:46.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Titomh1012 was killed by Pirate Captain using Hiryu: Kaen
+[03Jan2025 20:01:53.429] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech was killed by Pirate Captain
+[03Jan2025 20:01:59.073] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Titomh1012 was killed by Pirate Captain using Hiryu: Kaen
+[03Jan2025 20:02:15.047] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Titomh1012 was killed by Pirate Captain
+[03Jan2025 20:02:35.432] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech was killed by Pirate Captain
+[03Jan2025 20:02:41.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech was killed by Pirate Captain using Hiryu: Kaen
+[03Jan2025 20:02:43.096] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Titomh1012 was burnt to a crisp whilst fighting Pirate Captain
+[03Jan2025 20:04:30.434] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Teleported Titomh1012 to D3snitaSech]
+[03Jan2025 20:04:38.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RectoDePato: Teleported RectoDePato to D3snitaSech]
+[03Jan2025 20:04:41.534] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech has made the advancement [You Are A Pirate]
+[03Jan2025 20:04:41.534] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech has made the advancement [Smoke On The Water]
+[03Jan2025 20:04:41.989] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RectoDePato has made the advancement [Smoke On The Water]
+[03Jan2025 20:04:42.634] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Titomh1012 has made the advancement [You Are A Pirate]
+[03Jan2025 20:04:42.635] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Titomh1012 has made the advancement [Smoke On The Water]
+[03Jan2025 20:04:42.988] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RectoDePato has made the advancement [You Are A Pirate]
+[03Jan2025 20:05:09.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech has made the advancement [Barrel Booty]
+[03Jan2025 20:06:13.061] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1014, y=32, z=1289}
+[03Jan2025 20:06:47.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RectoDePato: Teleported RectoDePato to D3snitaSech]
+[03Jan2025 20:06:55.307] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Teleported Titomh1012 to D3snitaSech]
+[03Jan2025 20:07:17.193] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=878, y=29, z=1252}
+[03Jan2025 20:07:52.541] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: D3snitaSech lost connection: Timed out
+[03Jan2025 20:07:52.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech left the game
+[03Jan2025 20:08:27.289] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Titomh1012 was killed by Bandit Grunt
+[03Jan2025 20:09:10.378] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@b63acd
+[03Jan2025 20:09:10.432] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: D3snitaSech[/0:0:0:0:0:0:0:1%0:58136] logged in with entity id 29064 at (1005.1832243758008, 65.16610926093821, 1387.153058900392)
+[03Jan2025 20:09:10.440] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech joined the game
+[03Jan2025 20:09:10.499] [Server thread/INFO] [Waila/]: Syncing config to D3snitaSech (27a0e9ed-675f-3312-9be1-d866e0fa904f)
+[03Jan2025 20:09:25.310] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RectoDePato: Teleported RectoDePato to Titomh1012]
+[03Jan2025 20:09:31.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Titomh1012 has made the advancement [Barrel Booty]
+[03Jan2025 20:09:35.001] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RectoDePato has made the advancement [Barrel Booty]
+[03Jan2025 20:09:35.848] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [D3snitaSech: Teleported D3snitaSech to Titomh1012]

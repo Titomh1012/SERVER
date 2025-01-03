@@ -846,6 +846,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location0": "2025-01-03 20:04:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/cuckoo_clock": {
     "criteria": {
       "has_the_recipe": "2025-01-03 03:46:59 +0000"
@@ -7081,6 +7087,12 @@
     },
     "done": true
   },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-01-03 19:59:43 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_brick": {
     "criteria": {
       "has_the_recipe": "2025-01-03 03:46:59 +0000"
@@ -12035,6 +12047,12 @@
   "minecraft:recipes/decorations/gray_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-01-03 03:46:59 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2025-01-03 20:04:42 +0000"
     },
     "done": true
   },
@@ -21499,7 +21517,9 @@
       "minecraft:mountains": "2025-01-03 05:12:51 +0000",
       "minecraft:taiga": "2025-01-03 05:05:21 +0000",
       "minecraft:taiga_hills": "2025-01-03 05:51:59 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-01-03 19:59:27 +0000",
       "minecraft:river": "2025-01-03 04:25:10 +0000",
+      "minecraft:lukewarm_ocean": "2025-01-03 19:59:49 +0000",
       "minecraft:wooded_mountains": "2025-01-03 05:12:24 +0000",
       "minecraft:wooded_hills": "2025-01-03 03:47:01 +0000",
       "minecraft:plains": "2025-01-03 03:48:33 +0000"
@@ -22063,7 +22083,8 @@
       "cooked_mutton": "2025-01-03 04:46:46 +0000",
       "cooked_cod": "2025-01-03 19:16:42 +0000",
       "bread": "2025-01-03 04:34:52 +0000",
-      "suspicious_stew": "2025-01-03 06:09:02 +0000"
+      "suspicious_stew": "2025-01-03 06:09:02 +0000",
+      "cooked_salmon": "2025-01-03 20:00:19 +0000"
     },
     "done": false
   },

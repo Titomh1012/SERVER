@@ -846,6 +846,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location0": "2025-01-03 20:04:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/cuckoo_clock": {
     "criteria": {
       "has_the_recipe": "2025-01-03 03:46:43 +0000"
@@ -6274,6 +6280,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2025-01-03 20:05:09 +0000",
       "opened_chest": "2025-01-03 03:48:59 +0000",
       "opened_cart": "2025-01-03 04:35:07 +0000"
     },
@@ -7860,6 +7867,12 @@
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_the_recipe": "2025-01-03 03:46:44 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-01-03 20:05:09 +0000"
     },
     "done": true
   },
@@ -12073,6 +12086,12 @@
   "minecraft:recipes/decorations/gray_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-01-03 03:46:43 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2025-01-03 20:04:41 +0000"
     },
     "done": true
   },
@@ -21563,8 +21582,10 @@
       "minecraft:taiga": "2025-01-03 03:48:38 +0000",
       "minecraft:taiga_hills": "2025-01-03 04:24:15 +0000",
       "minecraft:birch_forest": "2025-01-03 04:35:33 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-01-03 19:58:33 +0000",
       "minecraft:beach": "2025-01-03 04:46:29 +0000",
       "minecraft:river": "2025-01-03 03:48:56 +0000",
+      "minecraft:lukewarm_ocean": "2025-01-03 19:58:28 +0000",
       "minecraft:birch_forest_hills": "2025-01-03 19:13:41 +0000",
       "minecraft:wooded_mountains": "2025-01-03 05:10:15 +0000",
       "minecraft:wooded_hills": "2025-01-03 03:46:45 +0000",
