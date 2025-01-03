@@ -932,3 +932,59 @@ Missing minecraft:mob_effect:
 [03Jan2025 19:38:26.939] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RectoDePato tried to swim in lava
 [03Jan2025 19:38:58.639] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech fell from a high place
 [03Jan2025 19:39:15.944] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Teleported Titomh1012 to RectoDePato]
+[03Jan2025 19:40:48.843] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RectoDePato tried to swim in lava
+[03Jan2025 19:41:03.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RectoDePato: Teleported RectoDePato to Titomh1012]
+[03Jan2025 19:41:27.691] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech has made the advancement [Pic-A-Nic Basket?]
+[03Jan2025 19:42:20.644] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Titomh1012 tried to swim in lava to escape Silverfish
+[03Jan2025 19:42:29.356] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Teleported Titomh1012 to RectoDePato]
+[03Jan2025 19:44:16.587] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RectoDePato tried to swim in lava
+[03Jan2025 19:44:28.895] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RectoDePato: Teleported RectoDePato to Titomh1012]
+[03Jan2025 19:45:35.744] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Teleported Titomh1012 to RectoDePato]
+[03Jan2025 19:46:12.153] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1001, y=22, z=496}
+[03Jan2025 19:47:51.735] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Set own game mode to Creative Mode]
+[03Jan2025 19:49:11.455] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Set own game mode to Survival Mode]
+[03Jan2025 19:50:09.635] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech was killed by Marine Brute
+[03Jan2025 19:55:18.112] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1108, y=24, z=1034}
+[03Jan2025 19:55:18.112] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1106, y=24, z=1036}
+[03Jan2025 19:55:18.113] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1087, y=24, z=1038}
+[03Jan2025 19:55:20.799] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1101, y=24, z=1050}
+[03Jan2025 19:56:03.654] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1106, y=29, z=1062}
+[03Jan2025 19:56:03.965] [Worker-Main-4/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 186  Position = BlockPos{x=1440, y=65, z=784}
+[03Jan2025 19:56:03.966] [Worker-Main-4/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 65  Position = BlockPos{x=1427, y=71, z=807}
+[03Jan2025 19:56:03.967] [Worker-Main-4/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 65  Position = BlockPos{x=1418, y=71, z=806}
+[03Jan2025 19:56:04.004] [Worker-Main-4/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 186  Position = BlockPos{x=1437, y=82, z=787}
+[03Jan2025 19:56:04.005] [Worker-Main-4/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 82  Position = BlockPos{x=1430, y=86, z=804}
+[03Jan2025 19:56:04.018] [Worker-Main-4/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 186  Position = BlockPos{x=1437, y=93, z=787}
+[03Jan2025 19:56:04.019] [Worker-Main-4/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 82  Position = BlockPos{x=1413, y=83, z=809}
+[03Jan2025 19:56:04.019] [Worker-Main-4/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 93  Position = BlockPos{x=1426, y=94, z=798}
+[03Jan2025 19:56:04.028] [Worker-Main-4/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 186  Position = BlockPos{x=1437, y=104, z=787}
+[03Jan2025 19:56:04.029] [Worker-Main-4/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 93  Position = BlockPos{x=1419, y=94, z=795}
+[03Jan2025 19:56:04.029] [Worker-Main-4/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 104  Position = BlockPos{x=1427, y=105, z=807}
+[03Jan2025 19:56:04.030] [Worker-Main-4/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 104  Position = BlockPos{x=1420, y=105, z=804}
+[03Jan2025 19:56:04.059] [Worker-Main-4/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 186  Position = BlockPos{x=1437, y=115, z=787}
+[03Jan2025 19:56:04.071] [Worker-Main-4/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 186  Position = BlockPos{x=1437, y=126, z=787}
+[03Jan2025 19:56:04.072] [Worker-Main-4/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 115  Position = BlockPos{x=1416, y=119, z=798}
+[03Jan2025 19:56:04.072] [Worker-Main-4/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 115  Position = BlockPos{x=1433, y=116, z=793}
+[03Jan2025 19:56:04.072] [Worker-Main-4/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 115  Position = BlockPos{x=1416, y=116, z=805}
+[03Jan2025 19:56:04.072] [Worker-Main-4/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 126  Position = BlockPos{x=1417, y=132, z=795}
+[03Jan2025 19:56:04.073] [Worker-Main-4/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 126  Position = BlockPos{x=1418, y=128, z=811}
+[03Jan2025 19:56:04.073] [Worker-Main-4/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 186  Position = BlockPos{x=1437, y=137, z=787}
+[03Jan2025 19:56:04.073] [Worker-Main-4/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 126  Position = BlockPos{x=1422, y=127, z=801}
+[03Jan2025 19:56:04.073] [Worker-Main-4/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 137  Position = BlockPos{x=1426, y=138, z=798}
+[03Jan2025 19:56:04.074] [Worker-Main-4/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 137  Position = BlockPos{x=1414, y=141, z=802}
+[03Jan2025 19:56:04.074] [Worker-Main-4/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 137  Position = BlockPos{x=1419, y=138, z=795}
+[03Jan2025 19:56:04.074] [Worker-Main-4/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 186  Position = BlockPos{x=1438, y=148, z=786}
+[03Jan2025 19:56:04.074] [Worker-Main-4/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 148  Position = BlockPos{x=1430, y=149, z=797}
+[03Jan2025 19:56:04.074] [Worker-Main-4/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 148  Position = BlockPos{x=1413, y=149, z=809}
+[03Jan2025 19:56:04.075] [Worker-Main-4/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 148  Position = BlockPos{x=1429, y=153, z=797}
+[03Jan2025 19:56:04.075] [Worker-Main-4/WARN] [com.BrassAmber.ba_bt.worldGen.BTJigsawManager/]: Bound Top = 148  Position = BlockPos{x=1430, y=152, z=804}
+[03Jan2025 19:56:31.486] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Titomh1012 lost connection: Timed out
+[03Jan2025 19:56:31.486] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Titomh1012 left the game
+[03Jan2025 19:58:50.811] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1f2c0b32
+[03Jan2025 19:58:50.888] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Titomh1012[/0:0:0:0:0:0:0:1%0:33842] logged in with entity id 22986 at (354.7861764477959, 11.0, -350.7190184461828)
+[03Jan2025 19:58:50.898] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Titomh1012 joined the game
+[03Jan2025 19:58:50.938] [Server thread/INFO] [Waila/]: Syncing config to Titomh1012 (bda2af2f-140c-3c17-9a00-f57b6921e79b)
+[03Jan2025 19:59:27.305] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [D3snitaSech: Teleported Titomh1012 to D3snitaSech]
+[03Jan2025 19:59:43.554] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Titomh1012 has made the advancement [Penteconter]
+[03Jan2025 20:00:00.198] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1465, y=16, z=1312}
+[03Jan2025 20:00:17.888] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RectoDePato: Teleported RectoDePato to D3snitaSech]

@@ -3538,6 +3538,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-01-03 04:50:36 +0000",
       "minecraft:spider": "2025-01-03 05:58:41 +0000",
+      "minecraft:creeper": "2025-01-03 19:54:31 +0000",
       "minecraft:witch": "2025-01-03 04:31:45 +0000",
       "minecraft:cave_spider": "2025-01-03 04:38:48 +0000",
       "minecraft:enderman": "2025-01-03 05:59:49 +0000",
@@ -19254,6 +19255,12 @@
   "create:recipes/create.palettes/gabbro_bricks_wall_from_gabbro_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-01-03 03:46:44 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-01-03 19:41:27 +0000"
     },
     "done": true
   },
