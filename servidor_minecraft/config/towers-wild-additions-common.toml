@@ -9,16 +9,16 @@
 ["Towers of the Wild: Additions - Configuration"]
 
 	["Towers of the Wild: Additions - Configuration"."End Tower Structure"]
-		#Whether End Towers generate on your worlds or not.
-		endTowerGenerates = true
+		#Whether End Towers should integrate Waystones mod or not.
+		endTowerWaystones = true
 		#Maximum distance between End Towers (in chunks).
 		#Range: 0 ~ 1000000
 		endTowerSpacing = 20
+		#Whether End Towers generate on your worlds or not.
+		endTowerGenerates = true
 		#Minimum distance between End Towers (in chunks).
 		#Range: 0 ~ 1000000
 		endTowerSeparation = 10
-		#Whether End Towers should integrate Waystones mod or not.
-		endTowerWaystones = true
 
 	["Towers of the Wild: Additions - Configuration"."Nether Tower Structure"]
 		#Whether Nether Towers generate on your worlds or not.
