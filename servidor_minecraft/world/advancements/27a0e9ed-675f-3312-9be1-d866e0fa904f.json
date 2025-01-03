@@ -12527,6 +12527,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-03 20:15:12 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/print_blossom": {
     "criteria": {
       "has_logs": "2025-01-03 03:46:42 +0000"
@@ -17726,6 +17732,12 @@
   "mcwbridges:recipes/balustrade_mossy_stone_bricks_bridge": {
     "criteria": {
       "has_planks": "2025-01-03 03:46:41 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_prairie_house": {
+    "criteria": {
+      "location0": "2025-01-03 20:09:36 +0000"
     },
     "done": true
   },

@@ -3532,6 +3532,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-01-03 04:39:13 +0000",
       "minecraft:cave_spider": "2025-01-03 04:31:28 +0000",
+      "minecraft:silverfish": "2025-01-03 20:06:34 +0000",
       "minecraft:zombie": "2025-01-03 04:33:42 +0000"
     },
     "done": false
@@ -5038,6 +5039,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-01-03 20:12:20 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/materials/cobalt_ingot_smelting": {
     "criteria": {
       "has_the_recipe": "2025-01-03 04:19:28 +0000"
@@ -6258,6 +6265,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2025-01-03 20:09:35 +0000",
       "opened_chest": "2025-01-03 05:11:57 +0000"
     },
     "done": false
@@ -7838,6 +7846,12 @@
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_the_recipe": "2025-01-03 04:19:27 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-01-03 20:09:35 +0000"
     },
     "done": true
   },
@@ -11456,6 +11470,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_the_recipe": "2025-01-03 04:19:28 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:adventure/meat": {
+    "criteria": {
+      "sea_king_meat": "2025-01-03 20:11:38 +0000"
     },
     "done": true
   },
@@ -17669,6 +17689,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_small_prairie_house": {
+    "criteria": {
+      "location0": "2025-01-03 20:09:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_sandstone_stairs": {
     "criteria": {
       "has_the_recipe": "2025-01-03 04:19:28 +0000"
@@ -22074,7 +22100,9 @@
     "criteria": {
       "cooked_porkchop": "2025-01-03 05:10:38 +0000",
       "cooked_beef": "2025-01-03 05:44:56 +0000",
-      "rotten_flesh": "2025-01-03 04:34:10 +0000"
+      "rotten_flesh": "2025-01-03 04:34:10 +0000",
+      "dried_kelp": "2025-01-03 20:12:55 +0000",
+      "mushroom_stew": "2025-01-03 20:12:20 +0000"
     },
     "done": false
   },
