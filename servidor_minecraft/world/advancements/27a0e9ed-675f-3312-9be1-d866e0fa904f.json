@@ -1962,6 +1962,12 @@
     },
     "done": true
   },
+  "mcwfences:recipes/quartz": {
+    "criteria": {
+      "has_qq": "2025-01-03 22:42:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_the_recipe": "2025-01-03 03:46:44 +0000"
@@ -2601,6 +2607,12 @@
   "betterendforge:recipes/betterendforge/azure_jadestone_polished_from_azure_jadestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-01-03 03:46:43 +0000"
+    },
+    "done": true
+  },
+  "minepiece:mine_piece": {
+    "criteria": {
+      "mine_piece": "2025-01-05 00:41:47 +0000"
     },
     "done": true
   },
@@ -12467,6 +12479,12 @@
     },
     "done": true
   },
+  "sereneseasons:recipes/tools/calendar": {
+    "criteria": {
+      "has_the_recipe": "2025-01-05 00:41:47 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/azulejo_10": {
     "criteria": {
       "has_the_recipe": "2025-01-03 03:46:45 +0000"
@@ -15266,6 +15284,12 @@
   "botania:recipes/botania/metamorphic_forest_cobblestone_wall": {
     "criteria": {
       "has_the_recipe": "2025-01-03 03:46:42 +0000"
+    },
+    "done": true
+  },
+  "sereneseasons:recipes/redstone/season_sensor": {
+    "criteria": {
+      "has_the_recipe": "2025-01-05 00:41:47 +0000"
     },
     "done": true
   },
@@ -18851,6 +18875,12 @@
     },
     "done": true
   },
+  "minepiece:advancement_skill_sword_2": {
+    "criteria": {
+      "advancement_skill_sword_2": "2025-01-05 00:41:47 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/conversions/magenta_petal_block_deconstruct": {
     "criteria": {
       "has_the_recipe": "2025-01-03 03:46:44 +0000"
@@ -18866,6 +18896,12 @@
   "botania:recipes/botania/corporea_crystal_cube": {
     "criteria": {
       "has_the_recipe": "2025-01-03 03:46:43 +0000"
+    },
+    "done": true
+  },
+  "minepiece:advancement_skill_sword_1": {
+    "criteria": {
+      "advancement_skill_sword_1": "2025-01-05 00:41:47 +0000"
     },
     "done": true
   },
@@ -20573,6 +20609,12 @@
     },
     "done": true
   },
+  "minepiece:advancement_skill_punch_1": {
+    "criteria": {
+      "advancement_skill_punch_1": "2025-01-05 00:41:47 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/sweet_berry_cookie": {
     "criteria": {
       "has_the_recipe": "2025-01-03 03:46:42 +0000"
@@ -21200,6 +21242,12 @@
   "create:recipes/create.palettes/fancy_weathered_limestone_bricks_slab": {
     "criteria": {
       "has_the_recipe": "2025-01-03 03:46:44 +0000"
+    },
+    "done": true
+  },
+  "minepiece:mine_piece_skills": {
+    "criteria": {
+      "mine_piece_skills": "2025-01-05 00:41:47 +0000"
     },
     "done": true
   },
