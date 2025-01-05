@@ -8975,3 +8975,45 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Jan2025 04:35:08.824] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [05Jan2025 04:35:49.568] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RectoDePato: Teleported RectoDePato to D3snitaSech]
 [05Jan2025 04:38:12.889] [Worker-Main-6/DEBUG] [betterdungeons/]: Small Dungeon at 1287 30 -1577
+[05Jan2025 04:39:16.786] [Worker-Main-6/DEBUG] [betterdungeons/]: Small Dungeon at 823 36 -1417
+[05Jan2025 04:39:43.726] [Worker-Main-6/DEBUG] [betterdungeons/]: Spider Dungeon at 760 42 -1363
+[05Jan2025 04:39:44.029] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=968, y=21, z=-1259}
+[05Jan2025 04:39:46.568] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [D3snitaSech: Teleported D3snitaSech to Titomh1012]
+[05Jan2025 04:39:58.425] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=864, y=18, z=-1185}
+[05Jan2025 04:40:02.328] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=842, y=23, z=-1164}
+[05Jan2025 04:40:02.329] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=840, y=23, z=-1166}
+[05Jan2025 04:40:02.331] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=846, y=23, z=-1176}
+[05Jan2025 04:40:02.332] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=840, y=23, z=-1169}
+[05Jan2025 04:40:08.835] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[05Jan2025 04:40:08.845] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[05Jan2025 04:40:40.498] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2911ms or 58 ticks behind
+[05Jan2025 04:41:00.764] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RectoDePato: Teleported RectoDePato to D3snitaSech]
+[05Jan2025 04:41:25.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RectoDePato: Teleported RectoDePato to D3snitaSech]
+[05Jan2025 04:41:50.435] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [D3snitaSech: Teleported D3snitaSech to RectoDePato]
+[05Jan2025 04:42:39.263] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RectoDePato: Teleported RectoDePato to D3snitaSech]
+[05Jan2025 04:43:05.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [D3snitaSech: Teleported D3snitaSech to Titomh1012]
+[05Jan2025 04:43:09.733] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RectoDePato: Teleported RectoDePato to D3snitaSech]
+[05Jan2025 04:43:34.257] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RectoDePato: Teleported RectoDePato to Titomh1012]
+[05Jan2025 04:44:12.769] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [D3snitaSech: Teleported D3snitaSech to RectoDePato]
+[05Jan2025 04:45:03.271] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: D3snitaSech moved too quickly! 1.653598896983567,6.4462041003254456,-8.58413275865928
+[05Jan2025 04:45:11.698] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[05Jan2025 04:45:11.709] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[05Jan2025 04:45:24.981] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Teleported Titomh1012 to D3snitaSech]
+[05Jan2025 04:45:25.316] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Titomh1012 has reached the goal [Skyslime Island]
+[05Jan2025 04:46:33.763] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Bandit Brute stopped Busoshoku Haki: Imbuing at tick 283
+[05Jan2025 04:46:34.118] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bullet'/17633, l='ServerLevel[world]', x=1180.13, y=62.50, z=-1169.03]
+[05Jan2025 04:46:44.512] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Bandit Brute stopped Busoshoku Haki: Imbuing at tick 498
+[05Jan2025 04:46:48.307] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RectoDePato fell from a high place
+[05Jan2025 04:47:39.801] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Bandit Sniper stopped Kaen Boshi at tick 2641
+[05Jan2025 04:47:40.752] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Bandit Sniper stopped Tetsu Boshi at tick 2660
+[05Jan2025 04:47:43.149] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Bandit Sniper stopped Kaen Boshi at tick 2708
+[05Jan2025 04:47:45.101] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Bandit Sniper stopped Tetsu Boshi at tick 2747
+[05Jan2025 04:47:46.199] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Bandit Sniper stopped Kaen Boshi at tick 2769
+[05Jan2025 04:47:46.199] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Bandit Sniper stopped Tetsu Boshi at tick 2769
+[05Jan2025 04:47:49.248] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Bandit Sniper stopped Kaen Boshi at tick 2830
+[05Jan2025 04:47:49.248] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Bandit Sniper stopped Tetsu Boshi at tick 2830
+[05Jan2025 04:47:54.402] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Bandit Brute stopped Busoshoku Haki: Imbuing at tick 1896
+[05Jan2025 04:48:15.030] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [D3snitaSech: Teleported D3snitaSech to Titomh1012]
+[05Jan2025 04:48:41.275] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech has reached the goal [Pray to the Goddess]
+[05Jan2025 04:48:46.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RectoDePato: Teleported RectoDePato to D3snitaSech]
+[05Jan2025 04:48:53.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RectoDePato: Teleported RectoDePato to D3snitaSech]

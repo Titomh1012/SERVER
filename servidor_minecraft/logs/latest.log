@@ -640,3 +640,28 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Jan2025 04:31:06.079] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RectoDePato: Teleported RectoDePato to D3snitaSech]
 [05Jan2025 04:31:14.529] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2893ms or 57 ticks behind
 [05Jan2025 04:35:49.568] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RectoDePato: Teleported RectoDePato to D3snitaSech]
+[05Jan2025 04:39:44.029] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=968, y=21, z=-1259}
+[05Jan2025 04:39:46.568] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [D3snitaSech: Teleported D3snitaSech to Titomh1012]
+[05Jan2025 04:39:58.425] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=864, y=18, z=-1185}
+[05Jan2025 04:40:02.328] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=842, y=23, z=-1164}
+[05Jan2025 04:40:02.329] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=840, y=23, z=-1166}
+[05Jan2025 04:40:02.331] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=846, y=23, z=-1176}
+[05Jan2025 04:40:02.332] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=840, y=23, z=-1169}
+[05Jan2025 04:40:40.498] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2911ms or 58 ticks behind
+[05Jan2025 04:41:00.764] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RectoDePato: Teleported RectoDePato to D3snitaSech]
+[05Jan2025 04:41:25.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RectoDePato: Teleported RectoDePato to D3snitaSech]
+[05Jan2025 04:41:50.435] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [D3snitaSech: Teleported D3snitaSech to RectoDePato]
+[05Jan2025 04:42:39.263] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RectoDePato: Teleported RectoDePato to D3snitaSech]
+[05Jan2025 04:43:05.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [D3snitaSech: Teleported D3snitaSech to Titomh1012]
+[05Jan2025 04:43:09.733] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RectoDePato: Teleported RectoDePato to D3snitaSech]
+[05Jan2025 04:43:34.257] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RectoDePato: Teleported RectoDePato to Titomh1012]
+[05Jan2025 04:44:12.769] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [D3snitaSech: Teleported D3snitaSech to RectoDePato]
+[05Jan2025 04:45:03.271] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: D3snitaSech moved too quickly! 1.653598896983567,6.4462041003254456,-8.58413275865928
+[05Jan2025 04:45:24.981] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Teleported Titomh1012 to D3snitaSech]
+[05Jan2025 04:45:25.316] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Titomh1012 has reached the goal [Skyslime Island]
+[05Jan2025 04:46:34.118] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bullet'/17633, l='ServerLevel[world]', x=1180.13, y=62.50, z=-1169.03]
+[05Jan2025 04:46:48.307] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RectoDePato fell from a high place
+[05Jan2025 04:48:15.030] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [D3snitaSech: Teleported D3snitaSech to Titomh1012]
+[05Jan2025 04:48:41.275] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech has reached the goal [Pray to the Goddess]
+[05Jan2025 04:48:46.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RectoDePato: Teleported RectoDePato to D3snitaSech]
+[05Jan2025 04:48:53.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RectoDePato: Teleported RectoDePato to D3snitaSech]
