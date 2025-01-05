@@ -3581,6 +3581,7 @@
       "minecraft:pillager": "2025-01-05 03:38:21 +0000",
       "minecraft:skeleton": "2025-01-03 04:50:36 +0000",
       "minecraft:vindicator": "2025-01-05 03:38:59 +0000",
+      "minecraft:magma_cube": "2025-01-05 04:18:13 +0000",
       "minecraft:spider": "2025-01-03 05:58:41 +0000",
       "minecraft:creeper": "2025-01-03 19:54:31 +0000",
       "minecraft:witch": "2025-01-03 04:31:45 +0000",
@@ -12195,6 +12196,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_thornborn_towers": {
+    "criteria": {
+      "location0": "2025-01-05 04:21:42 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/shimmerwood_planks": {
     "criteria": {
       "has_the_recipe": "2025-01-03 03:46:43 +0000"
@@ -18111,6 +18118,12 @@
     },
     "done": true
   },
+  "tconstruct:world/clay_island": {
+    "criteria": {
+      "found_island": "2025-01-05 04:16:24 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/brass_ingot_from_decompacting": {
     "criteria": {
       "has_the_recipe": "2025-01-03 03:46:44 +0000"
@@ -19728,6 +19741,12 @@
   "create:recipes/create.palettes/polished_weathered_limestone_stairs": {
     "criteria": {
       "has_the_recipe": "2025-01-03 03:46:44 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-01-05 04:16:58 +0000"
     },
     "done": true
   },
@@ -23184,6 +23203,12 @@
   "mcwlights:recipes/lantern": {
     "criteria": {
       "lantern": "2025-01-03 04:35:14 +0000"
+    },
+    "done": true
+  },
+  "botania:main/lexicon_use": {
+    "criteria": {
+      "use_lexicon": "2025-01-05 04:18:41 +0000"
     },
     "done": true
   },

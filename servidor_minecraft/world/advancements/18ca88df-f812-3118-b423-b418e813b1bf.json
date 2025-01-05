@@ -3557,6 +3557,7 @@
       "minecraft:pillager": "2025-01-05 03:43:42 +0000",
       "minecraft:skeleton": "2025-01-03 04:39:13 +0000",
       "minecraft:vindicator": "2025-01-05 04:01:22 +0000",
+      "minecraft:magma_cube": "2025-01-05 04:18:12 +0000",
       "minecraft:spider": "2025-01-03 21:18:05 +0000",
       "minecraft:creeper": "2025-01-03 22:39:16 +0000",
       "minecraft:witch": "2025-01-03 21:41:35 +0000",
@@ -12159,6 +12160,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_thornborn_towers": {
+    "criteria": {
+      "location0": "2025-01-05 04:20:30 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/shimmerwood_planks": {
     "criteria": {
       "has_the_recipe": "2025-01-03 04:19:28 +0000"
@@ -19656,6 +19663,12 @@
   "create:recipes/create.palettes/polished_weathered_limestone_stairs": {
     "criteria": {
       "has_the_recipe": "2025-01-03 04:19:27 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-01-05 04:17:39 +0000"
     },
     "done": true
   },
