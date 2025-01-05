@@ -3590,7 +3590,8 @@
       "minecraft:cave_spider": "2025-01-03 04:38:48 +0000",
       "minecraft:enderman": "2025-01-03 05:59:49 +0000",
       "minecraft:zombie": "2025-01-03 04:30:11 +0000",
-      "minecraft:drowned": "2025-01-05 01:25:54 +0000"
+      "minecraft:drowned": "2025-01-05 01:25:54 +0000",
+      "minecraft:zombie_villager": "2025-01-05 04:59:58 +0000"
     },
     "done": false
   },
@@ -21722,10 +21723,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-01-05 05:00:55 +0000",
       "minecraft:mountains": "2025-01-03 04:00:45 +0000",
       "minecraft:forest": "2025-01-03 04:19:14 +0000",
       "minecraft:taiga": "2025-01-03 03:48:38 +0000",
       "minecraft:desert_hills": "2025-01-03 22:11:52 +0000",
+      "minecraft:deep_cold_ocean": "2025-01-05 05:01:02 +0000",
       "minecraft:taiga_hills": "2025-01-03 04:24:15 +0000",
       "minecraft:desert": "2025-01-03 22:11:47 +0000",
       "minecraft:birch_forest": "2025-01-03 04:35:33 +0000",
