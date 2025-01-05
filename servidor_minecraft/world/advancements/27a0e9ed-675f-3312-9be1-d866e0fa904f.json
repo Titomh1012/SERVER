@@ -1110,6 +1110,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_wishing_well": {
+    "criteria": {
+      "location0": "2025-01-05 02:29:12 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/corporea_brick_stairs": {
     "criteria": {
       "has_the_recipe": "2025-01-03 03:46:44 +0000"
@@ -1878,6 +1884,12 @@
     },
     "done": true
   },
+  "mcwfences:recipes/prismarine": {
+    "criteria": {
+      "has_qq": "2025-01-05 01:52:30 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/scorched_bricks_crafting": {
     "criteria": {
       "has_the_recipe": "2025-01-03 03:46:43 +0000"
@@ -2610,12 +2622,6 @@
     },
     "done": true
   },
-  "minepiece:mine_piece": {
-    "criteria": {
-      "mine_piece": "2025-01-05 00:41:47 +0000"
-    },
-    "done": true
-  },
   "betterendforge:recipes/betterendforge/mossy_glowshroom_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2025-01-03 03:46:44 +0000"
@@ -3180,6 +3186,12 @@
     },
     "done": true
   },
+  "mcwfences:recipes/jungle": {
+    "criteria": {
+      "has_jungle": "2025-01-05 03:20:01 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_stone_slab": {
     "criteria": {
       "has_the_recipe": "2025-01-03 03:46:42 +0000"
@@ -3566,13 +3578,17 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-01-05 03:38:21 +0000",
       "minecraft:skeleton": "2025-01-03 04:50:36 +0000",
+      "minecraft:vindicator": "2025-01-05 03:38:59 +0000",
       "minecraft:spider": "2025-01-03 05:58:41 +0000",
       "minecraft:creeper": "2025-01-03 19:54:31 +0000",
       "minecraft:witch": "2025-01-03 04:31:45 +0000",
+      "minecraft:husk": "2025-01-05 01:11:00 +0000",
       "minecraft:cave_spider": "2025-01-03 04:38:48 +0000",
       "minecraft:enderman": "2025-01-03 05:59:49 +0000",
-      "minecraft:zombie": "2025-01-03 04:30:11 +0000"
+      "minecraft:zombie": "2025-01-03 04:30:11 +0000",
+      "minecraft:drowned": "2025-01-05 01:25:54 +0000"
     },
     "done": false
   },
@@ -8089,6 +8105,12 @@
   "betterendforge:recipes/betterendforge/sulphuric_rock_bricks_wall_from_sulphuric_rock_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-01-03 03:46:44 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-01-05 03:28:29 +0000"
     },
     "done": true
   },
@@ -15677,6 +15699,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-01-05 01:59:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/fox_smithing_gold": {
     "criteria": {
       "has_the_recipe": "2025-01-03 03:46:44 +0000"
@@ -18875,12 +18903,6 @@
     },
     "done": true
   },
-  "minepiece:advancement_skill_sword_2": {
-    "criteria": {
-      "advancement_skill_sword_2": "2025-01-05 00:41:47 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/botania/conversions/magenta_petal_block_deconstruct": {
     "criteria": {
       "has_the_recipe": "2025-01-03 03:46:44 +0000"
@@ -18896,12 +18918,6 @@
   "botania:recipes/botania/corporea_crystal_cube": {
     "criteria": {
       "has_the_recipe": "2025-01-03 03:46:43 +0000"
-    },
-    "done": true
-  },
-  "minepiece:advancement_skill_sword_1": {
-    "criteria": {
-      "advancement_skill_sword_1": "2025-01-05 00:41:47 +0000"
     },
     "done": true
   },
@@ -19364,6 +19380,12 @@
   "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
       "killed_by": "2025-01-03 19:41:27 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_campsite": {
+    "criteria": {
+      "location0": "2025-01-05 03:36:13 +0000"
     },
     "done": true
   },
@@ -20555,6 +20577,13 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-01-05 03:28:29 +0000",
+      "in_better_spider_dungeon": "2025-01-05 03:56:57 +0000"
+    },
+    "done": false
+  },
   "betterendforge:recipes/betterendforge/granite_pedestal": {
     "criteria": {
       "has_the_recipe": "2025-01-03 03:46:44 +0000"
@@ -20606,12 +20635,6 @@
   "betterendforge:recipes/misc/gunpowder_from_sulphur": {
     "criteria": {
       "has_the_recipe": "2025-01-03 03:46:43 +0000"
-    },
-    "done": true
-  },
-  "minepiece:advancement_skill_punch_1": {
-    "criteria": {
-      "advancement_skill_punch_1": "2025-01-05 00:41:47 +0000"
     },
     "done": true
   },
@@ -21242,12 +21265,6 @@
   "create:recipes/create.palettes/fancy_weathered_limestone_bricks_slab": {
     "criteria": {
       "has_the_recipe": "2025-01-03 03:46:44 +0000"
-    },
-    "done": true
-  },
-  "minepiece:mine_piece_skills": {
-    "criteria": {
-      "mine_piece_skills": "2025-01-05 00:41:47 +0000"
     },
     "done": true
   },
@@ -22260,6 +22277,7 @@
       "cooked_mutton": "2025-01-03 21:13:43 +0000",
       "cooked_beef": "2025-01-03 05:40:22 +0000",
       "beetroot_soup": "2025-01-03 21:09:54 +0000",
+      "apple": "2025-01-05 01:22:59 +0000",
       "bread": "2025-01-03 03:51:02 +0000",
       "cookie": "2025-01-03 21:01:02 +0000",
       "cooked_rabbit": "2025-01-03 21:20:01 +0000",
@@ -22734,6 +22752,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_the_recipe": "2025-01-03 03:46:44 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-01-05 03:56:57 +0000"
     },
     "done": true
   },

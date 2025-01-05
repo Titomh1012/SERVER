@@ -1139,6 +1139,12 @@
     },
     "done": true
   },
+  "tconstruct:world/earth_island": {
+    "criteria": {
+      "found_island": "2025-01-05 01:22:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_the_recipe": "2025-01-03 04:19:27 +0000"
@@ -1862,6 +1868,12 @@
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_the_recipe": "2025-01-03 04:19:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/prismarine": {
+    "criteria": {
+      "has_qq": "2025-01-05 01:24:28 +0000"
     },
     "done": true
   },
@@ -2595,12 +2607,6 @@
   "betterendforge:recipes/betterendforge/azure_jadestone_polished_from_azure_jadestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-01-03 04:19:26 +0000"
-    },
-    "done": true
-  },
-  "minepiece:mine_piece": {
-    "criteria": {
-      "mine_piece": "2025-01-05 00:44:06 +0000"
     },
     "done": true
   },
@@ -3548,14 +3554,18 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-01-05 03:43:42 +0000",
       "minecraft:skeleton": "2025-01-03 04:39:13 +0000",
+      "minecraft:vindicator": "2025-01-05 04:01:22 +0000",
       "minecraft:spider": "2025-01-03 21:18:05 +0000",
       "minecraft:creeper": "2025-01-03 22:39:16 +0000",
       "minecraft:witch": "2025-01-03 21:41:35 +0000",
       "minecraft:cave_spider": "2025-01-03 04:31:28 +0000",
       "minecraft:silverfish": "2025-01-03 20:06:34 +0000",
       "minecraft:enderman": "2025-01-03 21:18:14 +0000",
-      "minecraft:zombie": "2025-01-03 04:33:42 +0000"
+      "minecraft:zombie": "2025-01-03 04:33:42 +0000",
+      "minecraft:drowned": "2025-01-05 01:21:40 +0000",
+      "minecraft:zombie_villager": "2025-01-05 01:11:18 +0000"
     },
     "done": false
   },
@@ -15629,6 +15639,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-01-05 02:14:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/fox_smithing_gold": {
     "criteria": {
       "has_the_recipe": "2025-01-03 04:19:26 +0000"
@@ -18827,12 +18843,6 @@
     },
     "done": true
   },
-  "minepiece:advancement_skill_sword_2": {
-    "criteria": {
-      "advancement_skill_sword_2": "2025-01-05 00:44:06 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/botania/conversions/magenta_petal_block_deconstruct": {
     "criteria": {
       "has_the_recipe": "2025-01-03 04:19:27 +0000"
@@ -18848,12 +18858,6 @@
   "botania:recipes/botania/corporea_crystal_cube": {
     "criteria": {
       "has_the_recipe": "2025-01-03 04:19:26 +0000"
-    },
-    "done": true
-  },
-  "minepiece:advancement_skill_sword_1": {
-    "criteria": {
-      "advancement_skill_sword_1": "2025-01-05 00:44:06 +0000"
     },
     "done": true
   },
@@ -19304,6 +19308,12 @@
   "create:recipes/create.palettes/gabbro_bricks_wall_from_gabbro_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-01-03 04:19:27 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_campsite": {
+    "criteria": {
+      "location0": "2025-01-05 03:36:12 +0000"
     },
     "done": true
   },
@@ -20549,12 +20559,6 @@
     },
     "done": true
   },
-  "minepiece:advancement_skill_punch_1": {
-    "criteria": {
-      "advancement_skill_punch_1": "2025-01-05 00:44:06 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/farmersdelight/sweet_berry_cookie": {
     "criteria": {
       "has_the_recipe": "2025-01-03 04:19:26 +0000"
@@ -21185,12 +21189,6 @@
     },
     "done": true
   },
-  "minepiece:mine_piece_skills": {
-    "criteria": {
-      "mine_piece_skills": "2025-01-05 00:44:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-01-03 04:19:28 +0000"
@@ -21618,14 +21616,18 @@
       "minecraft:taiga": "2025-01-03 04:53:26 +0000",
       "minecraft:taiga_hills": "2025-01-03 19:58:02 +0000",
       "minecraft:desert": "2025-01-03 22:21:44 +0000",
+      "minecraft:birch_forest": "2025-01-05 01:59:15 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-01-03 20:00:22 +0000",
       "minecraft:savanna_plateau": "2025-01-03 22:35:25 +0000",
       "minecraft:beach": "2025-01-03 05:45:33 +0000",
+      "minecraft:dark_forest": "2025-01-05 02:37:55 +0000",
       "minecraft:river": "2025-01-03 04:39:53 +0000",
       "minecraft:lukewarm_ocean": "2025-01-03 20:00:18 +0000",
+      "minecraft:birch_forest_hills": "2025-01-05 02:00:02 +0000",
       "minecraft:wooded_mountains": "2025-01-03 05:09:20 +0000",
       "minecraft:wooded_hills": "2025-01-03 04:19:28 +0000",
       "minecraft:stone_shore": "2025-01-03 21:23:38 +0000",
+      "minecraft:swamp": "2025-01-05 02:41:09 +0000",
       "minecraft:savanna": "2025-01-03 22:33:49 +0000",
       "minecraft:plains": "2025-01-03 04:20:37 +0000"
     },
@@ -21850,6 +21852,12 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_the_recipe": "2025-01-03 04:19:26 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-01-05 02:54:46 +0000"
     },
     "done": true
   },
@@ -22191,12 +22199,14 @@
       "beetroot_soup": "2025-01-03 20:43:30 +0000",
       "apple": "2025-01-03 21:04:00 +0000",
       "cooked_cod": "2025-01-03 21:20:54 +0000",
+      "bread": "2025-01-05 03:42:23 +0000",
       "rotten_flesh": "2025-01-03 04:34:10 +0000",
       "dried_kelp": "2025-01-03 20:12:55 +0000",
       "melon_slice": "2025-01-03 20:25:35 +0000",
       "cooked_rabbit": "2025-01-03 21:09:40 +0000",
       "cooked_chicken": "2025-01-03 21:07:42 +0000",
-      "mushroom_stew": "2025-01-03 20:12:20 +0000"
+      "mushroom_stew": "2025-01-03 20:12:20 +0000",
+      "cooked_salmon": "2025-01-05 02:37:51 +0000"
     },
     "done": false
   },
