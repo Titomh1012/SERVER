@@ -14375,6 +14375,12 @@
     },
     "done": true
   },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2025-01-05 04:49:25 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/drum_gathering": {
     "criteria": {
       "has_the_recipe": "2025-01-03 04:19:27 +0000"

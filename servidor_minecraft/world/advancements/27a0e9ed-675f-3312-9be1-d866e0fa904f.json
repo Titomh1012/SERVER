@@ -6272,6 +6272,12 @@
     },
     "done": true
   },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "sky": "2025-01-05 04:45:34 +0000"
+    },
+    "done": false
+  },
   "mcwtrpdoors:recipes/bamboo/bamboo_swamp_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-03 03:46:42 +0000"
@@ -14432,6 +14438,12 @@
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_the_recipe": "2025-01-03 03:46:44 +0000"
+    },
+    "done": true
+  },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2025-01-05 04:48:41 +0000"
     },
     "done": true
   },

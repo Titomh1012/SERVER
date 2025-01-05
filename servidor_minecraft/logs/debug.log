@@ -9017,3 +9017,43 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Jan2025 04:48:41.275] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech has reached the goal [Pray to the Goddess]
 [05Jan2025 04:48:46.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RectoDePato: Teleported RectoDePato to D3snitaSech]
 [05Jan2025 04:48:53.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RectoDePato: Teleported RectoDePato to D3snitaSech]
+[05Jan2025 04:49:25.034] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RectoDePato has reached the goal [Pray to the Goddess]
+[05Jan2025 04:50:11.708] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[05Jan2025 04:50:11.719] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[05Jan2025 04:50:18.364] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Titomh1012 has made the advancement [Enchanter]
+[05Jan2025 04:50:25.724] [Server thread/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id minepiece:projectile_rifle
+[05Jan2025 04:50:25.775] [Server thread/WARN] [net.minecraft.entity.item.ItemFrameEntity/]: Unable to load item from: {id:"minepiece:murakumogiri",Count:1b,tag:{Damage:0}}
+[05Jan2025 04:50:25.776] [Server thread/WARN] [net.minecraft.entity.item.ItemFrameEntity/]: Unable to load item from: {id:"minepiece:sword_ace",Count:1b,tag:{RepairCost:0,display:{Name:'{"text":"海賊王が使っていた刀(レプリカ)"}'},Damage:0}}
+[05Jan2025 04:50:25.777] [Server thread/WARN] [net.minecraft.entity.item.ItemFrameEntity/]: Unable to load item from: {id:"minepiece:saber",Count:1b,tag:{Damage:0}}
+[05Jan2025 04:50:25.778] [Server thread/WARN] [net.minecraft.entity.item.ItemFrameEntity/]: Unable to load item from: {id:"minepiece:saber",Count:1b,tag:{Damage:0}}
+[05Jan2025 04:50:26.031] [Server thread/WARN] [net.minecraft.entity.item.ItemFrameEntity/]: Unable to load item from: {id:"minepiece:cutlass",Count:1b,tag:{Damage:0}}
+[05Jan2025 04:50:26.031] [Server thread/WARN] [net.minecraft.entity.item.ItemFrameEntity/]: Unable to load item from: {id:"minepiece:saber",Count:1b,tag:{Damage:0}}
+[05Jan2025 04:50:26.032] [Server thread/WARN] [net.minecraft.entity.item.ItemFrameEntity/]: Unable to load item from: {id:"minepiece:saber",Count:1b,tag:{Damage:0}}
+[05Jan2025 04:50:26.032] [Server thread/WARN] [net.minecraft.entity.item.ItemFrameEntity/]: Unable to load item from: {id:"minepiece:saber",Count:1b,tag:{Damage:0}}
+[05Jan2025 04:50:58.124] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@31c2f509
+[05Jan2025 04:50:58.125] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 1.0
+[05Jan2025 04:51:04.673] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RectoDePato: Teleported RectoDePato to D3snitaSech]
+[05Jan2025 04:51:39.723] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Bandit Brute stopped Genkotsu Meteor at tick 2
+[05Jan2025 04:51:42.516] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Teleported Titomh1012 to D3snitaSech]
+[05Jan2025 04:51:42.819] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Bandit Brute stopped Genkotsu Meteor at tick 64
+[05Jan2025 04:52:17.048] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@1946a9cf
+[05Jan2025 04:52:17.048] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 1.0
+[05Jan2025 04:52:48.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RectoDePato: Teleported RectoDePato to D3snitaSech]
+[05Jan2025 04:52:55.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Teleported Titomh1012 to D3snitaSech]
+[05Jan2025 04:53:31.943] [Worker-Main-4/DEBUG] [betterdungeons/]: Small Dungeon at 1655 25 -281
+[05Jan2025 04:53:35.381] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@2c3867e2
+[05Jan2025 04:53:35.381] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 1.0
+[05Jan2025 04:54:25.887] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@2c3867e2
+[05Jan2025 04:54:25.887] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 2.0
+[05Jan2025 04:55:11.746] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[05Jan2025 04:55:11.759] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[05Jan2025 04:55:49.331] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Chest com.BrassAmber.ba_bt.block.tileentity.StoneChestTileEntity@2c3867e2
+[05Jan2025 04:55:49.331] [Server thread/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: 3.0
+[05Jan2025 04:55:52.914] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Teleported Titomh1012 to D3snitaSech]
+[05Jan2025 04:56:27.459] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [D3snitaSech: Teleported D3snitaSech to RectoDePato]
+[05Jan2025 04:57:42.302] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=688, y=19, z=-151}
+[05Jan2025 04:58:19.904] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Bandit Brute stopped Busoshoku Haki: Hardening at tick 103
+[05Jan2025 04:58:21.052] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Bandit Brute stopped Genkotsu Meteor at tick 126
+[05Jan2025 04:58:21.154] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Bandit Brute stopped Busoshoku Haki: Hardening at tick 128
+[05Jan2025 04:59:17.518] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [D3snitaSech: Teleported D3snitaSech to Titomh1012]
+[05Jan2025 04:59:25.278] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [D3snitaSech: Teleported D3snitaSech to RectoDePato]

@@ -665,3 +665,23 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Jan2025 04:48:41.275] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: D3snitaSech has reached the goal [Pray to the Goddess]
 [05Jan2025 04:48:46.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RectoDePato: Teleported RectoDePato to D3snitaSech]
 [05Jan2025 04:48:53.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RectoDePato: Teleported RectoDePato to D3snitaSech]
+[05Jan2025 04:49:25.034] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RectoDePato has reached the goal [Pray to the Goddess]
+[05Jan2025 04:50:18.364] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Titomh1012 has made the advancement [Enchanter]
+[05Jan2025 04:50:25.724] [Server thread/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id minepiece:projectile_rifle
+[05Jan2025 04:50:25.775] [Server thread/WARN] [net.minecraft.entity.item.ItemFrameEntity/]: Unable to load item from: {id:"minepiece:murakumogiri",Count:1b,tag:{Damage:0}}
+[05Jan2025 04:50:25.776] [Server thread/WARN] [net.minecraft.entity.item.ItemFrameEntity/]: Unable to load item from: {id:"minepiece:sword_ace",Count:1b,tag:{RepairCost:0,display:{Name:'{"text":"海賊王が使っていた刀(レプリカ)"}'},Damage:0}}
+[05Jan2025 04:50:25.777] [Server thread/WARN] [net.minecraft.entity.item.ItemFrameEntity/]: Unable to load item from: {id:"minepiece:saber",Count:1b,tag:{Damage:0}}
+[05Jan2025 04:50:25.778] [Server thread/WARN] [net.minecraft.entity.item.ItemFrameEntity/]: Unable to load item from: {id:"minepiece:saber",Count:1b,tag:{Damage:0}}
+[05Jan2025 04:50:26.031] [Server thread/WARN] [net.minecraft.entity.item.ItemFrameEntity/]: Unable to load item from: {id:"minepiece:cutlass",Count:1b,tag:{Damage:0}}
+[05Jan2025 04:50:26.031] [Server thread/WARN] [net.minecraft.entity.item.ItemFrameEntity/]: Unable to load item from: {id:"minepiece:saber",Count:1b,tag:{Damage:0}}
+[05Jan2025 04:50:26.032] [Server thread/WARN] [net.minecraft.entity.item.ItemFrameEntity/]: Unable to load item from: {id:"minepiece:saber",Count:1b,tag:{Damage:0}}
+[05Jan2025 04:50:26.032] [Server thread/WARN] [net.minecraft.entity.item.ItemFrameEntity/]: Unable to load item from: {id:"minepiece:saber",Count:1b,tag:{Damage:0}}
+[05Jan2025 04:51:04.673] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RectoDePato: Teleported RectoDePato to D3snitaSech]
+[05Jan2025 04:51:42.516] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Teleported Titomh1012 to D3snitaSech]
+[05Jan2025 04:52:48.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RectoDePato: Teleported RectoDePato to D3snitaSech]
+[05Jan2025 04:52:55.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Teleported Titomh1012 to D3snitaSech]
+[05Jan2025 04:55:52.914] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Teleported Titomh1012 to D3snitaSech]
+[05Jan2025 04:56:27.459] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [D3snitaSech: Teleported D3snitaSech to RectoDePato]
+[05Jan2025 04:57:42.302] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=688, y=19, z=-151}
+[05Jan2025 04:59:17.518] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [D3snitaSech: Teleported D3snitaSech to Titomh1012]
+[05Jan2025 04:59:25.278] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [D3snitaSech: Teleported D3snitaSech to RectoDePato]
